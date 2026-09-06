@@ -40,6 +40,7 @@ def main():
     ap.add_argument("code", help="ISO 639-3 language code as used by iptv-org, e.g. mal, hin, tam")
     ap.add_argument("--file", default="", help="local playlist instead of downloading")
     ap.add_argument("--results", default="results-latest.csv")
+    ap.add_argument("--out", default="", help="output path (default languages/<code>.m3u)")
     cfg = ap.parse_args()
 
     if cfg.file:
@@ -64,8 +65,8 @@ def main():
         return (ORDER.get(r["status"], 2), float(r["startup"] or 99))
 
     ordered = sorted(blocks, key=key)                 # stable: keeps iptv-org's order within a tier
-    os.makedirs("languages", exist_ok=True)
-    path = os.path.join("languages", f"{cfg.code}.m3u")
+    path = cfg.out or os.path.join("languages", f"{cfg.code}.m3u")
+    os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
     with open(path, "w", encoding="utf-8") as f:
         f.write(header + "\n")
         for b in ordered:

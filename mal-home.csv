@@ -1,0 +1,74 @@
+url,name,status,kind,reason,startup,ratio,kbps,declared_kbps,n_variants,res,target,window,endlist,attempts_a,attempts_b
+http://103.165.93.31:8095/nationalGeographic/index.m3u8,"National Geographic HD (576p)",OK,hls,,3.03,2.8,3188,3010,1,1920x1080,6,24.0,0,1,1
+http://103.185.24.134:3001/ETV-BAL-BHARAT/index.m3u8,"ETV Bal Bharat (576p)",OK,hls,,3.87,2.18,2875,2780,1,1048x576,6,24.0,0,1,1
+http://103.185.24.134:3001/NICK/index.m3u8,"Nickelodeon (576p)",SLOW,hls,,4.39,2.27,2913,2950,1,1048x576,6,24.0,0,1,2
+http://103.185.24.134:3001/SONIC/index.m3u8,"Sonic (576p)",OK,hls,,3.61,2.4,2635,2830,1,1048x576,6,24.0,0,1,1
+http://103.72.101.252:8080/live/1455.m3u8,"Janapriyam TV (480p)",DEAD,,timeout,,,,,,,,,,2,0
+http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8,"Vision (576p)",DEAD,,timeout,,,,,,,,,,2,0
+http://131.153.22.8:1935/MAYYAZHI/live/playlist.m3u8,"Mayyazhi (720p) [Not 24/7]",DEAD,,timeout,,,,,,,,,,2,0
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8,"Malabar News (720p) [Not 24/7]",DEAD,,timeout,,,,,,,,,,2,0
+http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8,"We One Kerala (720p) [Geo-blocked]",DEAD,,timeout,,,,,,,,,,2,0
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:17:28:41&stream=373017&extension=ts&play_token=zCaGy5dtla,"National Geographic (576p) [Geo-blocked]",OK,direct,,0.72,,3927,,,,,,,1,1
+http://rtmp2.logicwebs.in:1935/msign/msignmedia/playlist.m3u8,"M Sign Media (720p) [Not 24/7]",DEAD,,timeout,,,,,,,,,,2,0
+http://server.applelive.in/kalikatv/kalikatv.m3u8,"Kalika TV (576p)",OK,hls,,2.29,3.27,2193,,1,,6,36.0,0,1,1
+http://tvsen7.aynascope.net/sspts1/index.m3u8,"Star Sports Select 1 HD (720p)",DEAD,,http_404,,,,,,,,,,1,0
+https://2-fss-2.streamhoster.com/pl_120/206508-3261972-1/playlist.m3u8,"C Malayalam TV (1080p)",SLOW,hls,,4.46,2.25,5351,5508,1,1280x720,5,19.2,0,1,2
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8,"VCV (720p) [Not 24/7]",DEAD,,http_404,,,,,,,,,,1,0
+https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8,"CCV (480p)",DEAD,,http_404,,,,,,,,,,1,0
+https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8,"Starnet (480p)",OK,hls,,2.72,5.5,622,711,1,854x480,12,29.0,0,1,1
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvestenglish/d1796a22d24e8696c7d5d0b5c349fdd2.sdp/index.m3u8,"Harvest TV Keralam (720p)",OK,hls,,3.31,5.67,1398,1341,1,1280x720,8,36.0,0,1,1
+https://7mbd4ogkr3gx-hls-live.wmncdn.net/harvesttvlive1/bbb19eae240ec100af921d511efc86a0.sdp/index.m3u8,"Harvest TV (720p)",OK,hls,,3.13,5.58,1836,1798,1,1280x720,8,37.3,0,1,1
+https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8,"KITE Victers (Kerala) (720p) [Not 24/7]",OK,hls,,2.48,5.64,3236,3235,1,1920x1080,7,36.0,0,1,1
+https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8,"Asianet News (1080p)",DEAD,,http_403,,,,,,,,,,1,0
+https://bk7l298nyx53-hls-live.5centscdn.com/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/playlist.m3u8,"Real News Kerala (1080p) [Not 24/7]",OK,hls,,2.72,4.53,2446,2763,1,1920x1080,6,36.0,0,1,1
+https://cdn-3.pishow.tv/live/1467/master.m3u8,"Jeevan TV (576p)",DEAD,,http_404,,,,,,,,,,1,0
+https://cdn-3.pishow.tv/live/1469/master.m3u8,"Kairali News (720p)",DEAD,,http_404,,,,,,,,,,1,0
+https://cdn-3.pishow.tv/live/1481/master.m3u8,"Media One (720p)",DEAD,,http_404,,,,,,,,,,1,0
+https://cdn-3.pishow.tv/live/1629/master.m3u8,"News Malayalam 24x7 (576p)",DEAD,,http_404,,,,,,,,,,1,0
+https://cdn-6.pishow.tv/live/1513/master.m3u8,"Safari TV",DEAD,,http_404,,,,,,,,,,1,0
+https://cdn-7.pishow.tv/live/1129/master.m3u8,"Mazhavil Manorama HD (1080p)",DEAD,,http_404,,,,,,,,,,1,0
+https://cloudplay-sonyliv.pages.dev/ten1hd.m3u8,"Sony Sports Ten 1 HD (1080p)",DEAD,hls,media_http_403,,,,4571,8,1920x1080,,,,1,1
+https://cloudplay-sonyliv.pages.dev/ten5.m3u8,"Sony Sports Ten 5 (1080p)",DEAD,hls,media_http_403,,,,4571,8,1920x1080,,,,1,1
+https://cloudplay-sonyliv.pages.dev/ten5hd.m3u8,"Sony Sports Ten 5 HD (1080p)",DEAD,hls,media_http_403,,,,4571,8,1920x1080,,,,1,1
+https://cloudplay-sonyliv.pages.dev/yay.m3u8,"Sony Yay! (1080p)",DEAD,hls,media_http_403,,,,4571,8,1920x1080,,,,1,1
+https://cloudsavre.in.net/hls/stream.m3u8,"Wayanad Vision (1080p)",DEAD,,timeout,,,,,,,,,,2,0
+https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8,"Zee Malayalam News (720p)",DEAD,,dns,,,,,,,,,,1,0
+https://d25tgymtnqzu8s.cloudfront.net/smil:negara/playlist.m3u8?id=8,"RTM Parlimen (Dewan Negara) [Geo-blocked]",DEAD,,http_403,,,,,,,,,,1,0
+https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7,"RTM Parlimen (Dewan Rakyat) [Geo-blocked]",DEAD,,http_403,,,,,,,,,,1,0
+https://d28xtgmk9tfk6b.cloudfront.net/master.m3u8,"Shalom Global (1080p)",OK,hls,,3.45,3.75,4337,4716,4,1920x1080,6,60.0,0,1,2
+https://d2c4zqo2rb5uf1.cloudfront.net/master.m3u8,"Shalom (1080p)",OK,hls,,3.53,2.67,2853,3000,4,1920x1080,6,60.0,0,1,1
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8,"Big TV 24x7 (576i)",OK,hls,,2.64,3.97,2193,,1,,8,32.0,0,1,1
+https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/index.m3u8,"DD Malayalam (504p)",OK,hls,,2.61,5.08,361,1375,3,896x504,6,60.0,0,1,1
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8,"Asianet Movies HD (720p)",OK,hls,,2.78,2.51,2757,2628,2,1280x720,6,32.0,0,1,1
+https://ddash74r36xqp.cloudfront.net/master.m3u8,"Amrita TV (720p)",OK,hls,,3.45,4.7,2211,2217,4,1280x720,10,100.0,0,1,1
+https://em4qj6nedyvg-hls-live.wmncdn.net/liveunit/89b1e919eed04e59383cf820d644c20e.sdp/playlist.m3u8,"UTV Palakkad (1080p)",OK,hls,,2.73,5.5,313,437,1,720x576,8,36.0,0,1,1
+https://j78dpa3edq5r-hls-live.5centscdn.com/abr/0864028584026e6ad9cdf922473177a4/playlist.m3u8,"Magna Vision (1080p)",DEAD,,http_404,,,,,,,,,,1,0
+https://kcltv.livebox.co.in/kclhls/live.m3u8,"KCL TV (720p)",OK,hls,,1.86,3.92,2041,,1,,6,2912.2,0,1,1
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8,"Anand TV (720p) [Not 24/7]",SLOW,hls,,5.41,3.43,2025,2010,1,1280x720,15,43.6,0,1,2
+https://live.mana2.my/SelangorTv/index.m3u8?auth_key=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd&token=1745177902-0210d7bbc24749879b1c370bfbd2b512-0-1a02652c616fd55ef43edbcf07d9c7dd,"SelangorTV (1080p)",DEAD,,dns,,,,,,,,,,1,0
+https://livemtaasia.akamaized.net/hls/live/2039224/mtaasia2/playlist.m3u8,"MTA7 Asia (1080p)",DEAD,hls,media_http_404,,,,4879,8,1920x1080,,,,1,1
+https://livestreamcdn.net:444/ShalomTV/ShalomTV/playlist.m3u8,"Shalom TV (720p) [Not 24/7]",DEAD,,tls,,,,,,,,,,1,0
+https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8,"Shekinah TV (1080p)",OK,hls,,2.42,6.95,2257,2256,1,1920x1080,12,49.5,0,1,1
+https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8,"Pravasi Channel (1080p)",OK,hls,,1.79,6.86,1090,1170,1,1920x1080,7,23.9,0,1,1
+https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8,"Manorama News (1080p)",OK,hls,,1.53,11.07,2059,4793,4,1280x720,6,30.0,0,1,1
+https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8,"Kairali TV (576p)",OK,hls,,3.85,2.96,1038,980,1,488x360,7,24.0,0,1,1
+https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8,"Asianet Middle East (576p)",OK,hls,,3.88,2.82,962,940,1,654x360,6,24.0,0,1,1
+https://mumt03.tangotv.in/Dsly5z3HJAIHIND/index.m3u8,"Jaihind TV (576p)",OK,hls,,3.76,2.97,986,1000,1,488x360,6,24.0,0,1,1
+https://mumt03.tangotv.in/Dsly5z3HJANAMTV/index.m3u8,"Janam TV (576p)",SLOW,hls,,4.0,2.87,994,1020,1,488x360,6,24.0,0,1,2
+https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8,"Kairali Arabia (576p)",OK,hls,,3.8,2.94,1010,1020,1,488x360,6,24.0,0,1,1
+https://mumt03.tangotv.in/Dsly5z3HKAPPATV/index.m3u8,"Kappa TV (576p)",OK,hls,,3.88,2.74,982,990,1,488x360,6,24.0,0,1,1
+https://mumt03.tangotv.in/Dsly5z3HMAZHAVILMANORAMAINT/index.m3u8,"Mazhavil Manorama (576p)",OK,hls,,3.77,2.87,966,1000,1,488x360,6,24.0,0,1,1
+https://mumt04.tangotv.in/m18aqlK4DARSHANATV/index.m3u8,"Darshana TV (576p)",OK,hls,,3.91,2.79,1026,970,1,488x360,7,24.0,0,1,1
+https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8,"24 News (576p)",SLOW,hls,,3.53,1.18,974,970,1,654x360,7,8.0,0,1,1
+https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8,"News18 Kerala (1080p)",OK,hls,,3.32,2.55,2366,2790,5,1920x1080,9,594.0,0,1,1
+https://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8,"Garshom TV (360p) [Not 24/7]",DEAD,,tls,,,,,,,,,,1,0
+https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8,"Potta-Divine TV USA (480p)",SLOW,hls,,5.51,3.91,837,960,1,852x480,20,30.0,0,1,2
+https://radiomy-tonton-proxy.api-danidev.workers.dev/tonton/live/6420324,"DidikTV KPM (1080p) [Geo-blocked]",DEAD,,http_403,,,,,,,,,,1,0
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8,"Asianet HD (720p)",OK,hls,,2.35,2.56,2770,1928,2,1280x720,11,32.0,0,1,1
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8,"Pulari TV",OK,hls,,1.67,3.05,4948,,1,,4,80.0,0,1,1
+https://segment.yuppcdn.net/050522/reporter/playlist.m3u8,"Reporter TV (576p)",OK,hls,,1.31,5.42,2072,1995,4,704x396,4,32.0,0,1,1
+https://streams.tangotv.in/MATHRUBHUMINEWS/ORIGIN/index.m3u8,"Mathrubhumi News (576p)",OK,hls,,2.69,4.05,978,970,1,488x360,7,24.0,0,1,1
+https://streams.tangotv.in/WETV/ORIGIN/index.m3u8,"Kairali We (576p)",OK,hls,,2.82,3.85,994,970,1,488x360,7,24.0,0,1,1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd,"meWATCH LIVE 1 (1080p)",OK,dash,,1.02,,,,,,,,,1,0
+https://tonton-live-switch-ssar.akamaized.net/stream-ntv7/master.m3u8?bpkio_serviceid=6c0958d82a830a02ca0936d9cfab8311,NTV7,DEAD,,http_400,,,,,,,,,,1,0
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8,"Flowers TV USA",OK,hls,,1.04,7.67,1978,2042,4,704x396,4,32.0,0,1,1

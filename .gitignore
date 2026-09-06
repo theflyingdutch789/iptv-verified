@@ -12,3 +12,5 @@ probe_all.py
 finish.py
 probe_all_results.jsonl
 summary.json
+mal.db
+mal.log
