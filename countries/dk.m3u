@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="https://worker-9dd4.onrender.com/guide.xml.gz"
+#EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk@SD" tvg-logo="https://i.imgur.com/RqQDUzX.png" group-title="Legislative",Folketinget (1080p) [Not 24/7]
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8

@@ -1,0 +1,14 @@
+# probe history lives in the Actions cache, not in git
+probe.db
+smoke.db
+*.log
+*.out
+__pycache__/
+# the source index is fetched fresh by the workflow
+index.m3u
+# first-version tooling and its raw output
+probe.py
+probe_all.py
+finish.py
+probe_all_results.jsonl
+summary.json

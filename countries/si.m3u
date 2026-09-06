@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="https://worker-9dd4.onrender.com/guide.xml.gz"
+#EXTINF:-1 tvg-id="FolxSlovenija.si@SD" tvg-logo="https://i.imgur.com/RK1IASU.png" group-title="Music",Folx Slovenija
+https://folxsloapp.b-cdn.net/1080p/index.m3u8

@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="https://worker-9dd4.onrender.com/guide.xml.gz"
+#EXTINF:-1 tvg-id="BalchiTV.aw@SD" tvg-logo="https://i.imgur.com/XlCaZvF.png" group-title="Culture",Balchi TV
+https://rtmpcontrol.com:1936/balchitv/balchitv/playlist.m3u8

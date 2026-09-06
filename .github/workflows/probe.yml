@@ -1,0 +1,56 @@
+name: probe
+
+# Probes every stream in the iptv-org index and publishes the playlists that pass.
+# Runs daily and on demand. probe.db is carried between runs through the Actions
+# cache so stable.m3u (passed every run) fills in after the second run.
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: probe
+  cancel-in-progress: false
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Restore probe history
+        uses: actions/cache@v4
+        with:
+          path: probe.db
+          key: probe-db-${{ github.run_id }}
+          restore-keys: probe-db-
+
+      - name: Fetch the latest index
+        run: curl -sSL --compressed -o index.m3u https://iptv-org.github.io/iptv/index.m3u
+
+      - name: Probe streams
+        run: python3 probe2.py
+
+      - name: Build playlists
+        run: python3 finish2.py
+
+      - name: Keep the last 7 runs in the database
+        run: |
+          sqlite3 probe.db "
+            DELETE FROM results WHERE run_id NOT IN (SELECT id FROM runs ORDER BY id DESC LIMIT 7);
+            DELETE FROM runs    WHERE id     NOT IN (SELECT id FROM runs ORDER BY id DESC LIMIT 7);
+            VACUUM;"
+
+      - name: Commit playlists
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A verified.m3u verified-best.m3u countries report.txt results-latest.csv
+          git add -A stable.m3u 2>/dev/null || true
+          git commit -m "probe: $(sed -n 2p report.txt)" || echo "nothing changed"
+          git push

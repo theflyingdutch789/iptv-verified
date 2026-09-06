@@ -1,0 +1,7 @@
+#EXTM3U x-tvg-url="https://worker-9dd4.onrender.com/guide.xml.gz"
+#EXTINF:-1 tvg-id="DunyaNawTV.af@SD" tvg-logo="https://i.ibb.co/nQkLgyn/dunya-naw-tv.png" group-title="General",Dunya Naw TV (576p)
+https://dunyanhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="EslahTV.af@SD" tvg-logo="https://i.imgur.com/To7VnsA.png" group-title="Religious",Eslah TV (720p)
+https://eslahtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TamadonTV.af@SD" tvg-logo="https://i.imgur.com/edGyj5H.png" group-title="Undefined",Tamadon TV (720p)
+https://hls.tamadon.live/hls/stream.m3u8

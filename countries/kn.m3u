@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="https://worker-9dd4.onrender.com/guide.xml.gz"
+#EXTINF:-1 tvg-id="TelevisionCaribbean.kn@SD" tvg-logo="https://i.imgur.com/Ogw0COv.png" group-title="General",Television Caribbean (1080p)
+https://live.kingdom-tv.com:3545/stream/play.m3u8
