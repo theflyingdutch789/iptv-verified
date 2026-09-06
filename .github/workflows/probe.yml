@@ -39,6 +39,11 @@ jobs:
       - name: Build playlists
         run: python3 finish2.py
 
+      - name: Build per-language playlists (every channel, fast first)
+        run: for code in $LANGUAGES; do python3 language.py "$code"; done
+        env:
+          LANGUAGES: mal
+
       - name: Keep the last 7 runs in the database
         run: |
           sqlite3 probe.db "
@@ -50,7 +55,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A verified.m3u verified-best.m3u countries report.txt results-latest.csv
+          git add -A verified.m3u verified-best.m3u countries languages report.txt results-latest.csv
           git add -A stable.m3u 2>/dev/null || true
           git commit -m "probe: $(sed -n 2p report.txt)" || echo "nothing changed"
           git push
