@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://worker-9dd4.onrender.com/guide.xml.gz"
+#EXTINF:-1 tvg-id="DanceTVAlgorhythm.ee@SD" tvg-logo="" group-title="Music",DanceTV Algorhythm (1080p)
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
 #EXTINF:-1 tvg-id="DanceTVHouseFloor.ee@SD" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hf-logo-uDcW7mhXn7bEtZ18czXFyZDlhj8ayX.png" group-title="Music",DanceTV House Floor (1080p)
 https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
+#EXTINF:-1 tvg-id="DanceTVTechnoWarehouse.ee@SD" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tw-logo-dqofMpknglzhuurr3HkwtzR7cqGZHj.png" group-title="Music",DanceTV Techno Warehouse (1080p)
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
 #EXTINF:-1 tvg-id="ETV.ee@SD" tvg-logo="https://i.imgur.com/5URjPgG.png" group-title="General",ETV (720p)
 https://sb.err.ee/live/etv.m3u8
 #EXTINF:-1 tvg-id="ETV2.ee@SD" tvg-logo="https://i.imgur.com/fUjGHDa.png" group-title="Culture;Kids",ETV2 (720p)

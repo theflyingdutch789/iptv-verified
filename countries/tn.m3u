@@ -1,0 +1,3 @@
+#EXTM3U x-tvg-url="https://worker-9dd4.onrender.com/guide.xml.gz"
+#EXTINF:-1 tvg-id="MosaiqueFM.tn@SD" tvg-logo="https://i.imgur.com/GDUykah.png" group-title="Music",Mosaique FM (1080p)
+https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8?DVR

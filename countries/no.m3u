@@ -1,7 +1,3 @@
 #EXTM3U x-tvg-url="https://worker-9dd4.onrender.com/guide.xml.gz"
-#EXTINF:-1 tvg-id="CanalMotor.no@SD" tvg-logo="https://i.imgur.com/nCAt3QN.png" group-title="Auto",Canal Motor (720p)
-https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
-#EXTINF:-1 tvg-id="Frikanalen.no@SD" tvg-logo="https://i.imgur.com/rY3Owxl.png" group-title="General",Frikanalen (720p)
-https://frikanalen.no/stream/index.m3u8
 #EXTINF:-1 tvg-id="TVOstfold.no@SD" tvg-logo="https://i.ibb.co/HHxGQGD/TVO-kanalbanner-page-0002-1-removebg-preview-300x94.png" group-title="General",TV Østfold (1080p)
 https://streamnorge.com:8088/hls/tvo.m3u8
