@@ -35,8 +35,6 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="HomePlus.ir@SD" tvg-logo="" group-title="Movies",Home Plus
 https://homeplushls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="IranJewishTV.ir@SD" tvg-logo="https://i.ibb.co/JWXs7csN/en.png" group-title="Religious",Iran Jewish TV
-http://iran620.com:1935/live/IranJewishTv/playlist.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir@SD" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="News",IRINN (576p)
 http://185.9.2.18/chid_926/index.m3u8
 #EXTINF:-1 tvg-id="MetaFilmTV.ir@SD" tvg-logo="" group-title="Movies",Meta Film TV
