@@ -5,8 +5,12 @@ https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/p
 https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8
 #EXTINF:-1 tvg-id="AmericaEstereoQuito.ec@SD" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="General",América Estéreo Quito (1080p)
 https://video.makrodigital.com/americaestereoquito/americaestereoquito/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericaEstereoTulcan.ec@SD" tvg-logo="https://i.imgur.com/gUqKymM.png" group-title="General",América Estéreo Tulcán (614p)
+https://video.makrodigital.com/americaestereotulcan/americaestereotulcan/playlist.m3u8
 #EXTINF:-1 tvg-id="AntenaUnoRadiovideo.ec@SD" tvg-logo="https://i.imgur.com/PCN6iZJ.png" group-title="Undefined",Antena Uno RadioVideo (360p)
 https://tvdatta.com:3578/live/antenaunolive.m3u8
+#EXTINF:-1 tvg-id="Asomavision.ec@SD" tvg-logo="https://i.imgur.com/VqwyCV1.png" group-title="Religious",Asomavisión (614p)
+https://asomatv.cloud-ip.cc/livestream/stream.m3u8
 #EXTINF:-1 tvg-id="AustralTV.ec@SD" tvg-logo="https://i.imgur.com/zgGuCYL.png" group-title="General",Austral TV (1080p)
 https://stmv3.voxtvhd.com.br/australtv/australtv/playlist.m3u8
 #EXTINF:-1 tvg-id="BacanTeVeo.ec@SD" tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="Entertainment",Bacán Te Veo (360p)
@@ -39,8 +43,6 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8
 https://eu1.servers10.com:8081/8068/index.m3u8
 #EXTINF:-1 tvg-id="LatacungaTV.ec@SD" tvg-logo="https://i.imgur.com/YjgYYH3.png" group-title="Entertainment",Latacunga TV (360p)
 https://stmv1.voxtvhd.com.br/latacungatv/latacungatv/playlist.m3u8
-#EXTINF:-1 tvg-id="LoretoTV.ec@SD" tvg-logo="https://i.imgur.com/3qGSAT3.png" group-title="General",Loreto TV (720p)
-https://loretotv.moxapps.shop/live/QFM7KYOlxWd47ybXB3Z1u2P13Py1/index.m3u8
 #EXTINF:-1 tvg-id="MakroDigitalTelevision.ec@SD" tvg-logo="https://makrodigitaltelevision.com/logo.jpg" http-referrer="https://makrodigitaltelevision.com" group-title="Entertainment",MakroDigital Television (1080p)
 #EXTVLCOPT:http-referrer=https://makrodigitaltelevision.com
 https://makrodigitaltv.makrodigital.com/makrodigitaltelevision/iptv/playlist.m3u8
@@ -52,6 +54,8 @@ http://200.7.219.221:8088/live/livetv/index.m3u8
 https://eu1.servers10.com:8081/8334/index.m3u8
 #EXTINF:-1 tvg-id="MetropoliMediosTV.ec@SD" tvg-logo="https://i.imgur.com/yID5T2S.jpg" group-title="Music",Metropoli Medios TV (720p)
 https://eu1.servers10.com:8081/8214/index.m3u8
+#EXTINF:-1 tvg-id="NukaTV.ec@SD" tvg-logo="https://i.imgur.com/4r2Ycju.png" group-title="General",Ñuka TV (720p) [Not 24/7]
+https://cloudvideo.servers10.com:8081/8118/index.m3u8
 #EXTINF:-1 tvg-id="OromarTV.ec@SD" tvg-logo="https://oromartv.com/images/OTV400.png" group-title="General",Oromar TV (1080p)
 http://45.224.97.181:9999/Oromar/index.m3u8
 #EXTINF:-1 tvg-id="OromarTVPlus.ec@SD" tvg-logo="https://oromartv.com/images/OTV400.png" group-title="General",Oromar TV+ (720p)
@@ -94,5 +98,7 @@ http://45.187.0.19:9090/tvusa/index.m3u8
 https://video.compuwebecuador.com:3323/live/uniandeslive.m3u8
 #EXTINF:-1 tvg-id="UnsionTV.ec@SD" tvg-logo="https://i.imgur.com/HQGBqGU.png" group-title="Undefined",Unsion TV (1080p)
 http://provedores.unsion.tv:8081/srt/1/playlist.m3u8
+#EXTINF:-1 tvg-id="VosyTV.ec@SD" tvg-logo="https://i.imgur.com/294FDCB.png" group-title="Music",Vos y TV (720p) [Not 24/7]
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
 #EXTINF:-1 tvg-id="WuanPlus.ec@SD" tvg-logo="https://i.imgur.com/pJNx1za.png" group-title="General",Wuan+
 https://7.innovatestream.pe:19360/ecuadortest/ecuadortest.m3u8

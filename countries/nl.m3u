@@ -106,6 +106,8 @@ https://d2od87akyl46nm.cloudfront.net/live/omroepgelderland/tvgelderland-hls/ind
 https://ms2.mx-cd.net/tv/272-2641704/Hoeksche_Waard_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OmroepLandvanCuijk.nl@SD" tvg-logo="https://i.imgur.com/Pt2gXJ1.png" group-title="General",Omroep Land van Cuijk (720p)
 https://d3go236bg358u.cloudfront.net/nlpo/clr-nlpo/omroeplandvancuijk/index.m3u8
+#EXTINF:-1 tvg-id="OmroepLingewaard.nl@SD" tvg-logo="https://i.imgur.com/FqyTFVN.png" group-title="General",Omroep Lingewaard (720p)
+https://highvolume02.streampartner.nl/omroeplingewaard_1/omroeplingewaard_1/playlist.m3u8
 #EXTINF:-1 tvg-id="OmroepPeelrand.nl@SD" tvg-logo="https://i.imgur.com/K4AhATP.png" group-title="General",Omroep Peelrand (720p)
 https://ms7.mx-cd.net/dtv-11/208-1258878/Omroep_Peelrand_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OmroepSudwest.nl@SD" tvg-logo="https://i.imgur.com/XtKLmQS.png" group-title="General",Omroep Súdwest (720p)
@@ -170,8 +172,6 @@ https://media.rtvnoord.nl/live/rtvnoord/tv/index.m3u8
 https://media.rtvnoord.nl/live/rtvnoord/extra/index.m3u8
 #EXTINF:-1 tvg-id="RTVOost.nl@SD" tvg-logo="https://i.imgur.com/nTR6q9H.png" group-title="Undefined",RTV Oost (720p)
 https://d34cg2bnc08ruf.cloudfront.net/live/rtvoost/tv/index.m3u8
-#EXTINF:-1 tvg-id="RTVParkstad.nl@SD" tvg-logo="https://i.imgur.com/zsTuF9y.png" group-title="General",RTV Parkstad (1080p)
-https://live.streamteam.eu:8443/parkstad/parkstad/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVPurmerend.nl@SD" tvg-logo="https://i.imgur.com/dLKSpqz.png" group-title="Undefined",RTV Purmerend (720p)
 https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTVRijnmond.nl@SD" tvg-logo="https://i.imgur.com/fJTs9xH.png" group-title="Undefined",RTV Rijnmond (1080p)
@@ -202,6 +202,8 @@ https://video-eu1.streamerr.co/hls/s7fdeb27a49/live.m3u8
 http://highvolume155.streampartner.nl/adminsrc/adminsrc/playlist.m3u8
 #EXTINF:-1 tvg-id="StreekTV.nl@SD" tvg-logo="https://i.imgur.com/48lkh57.png" group-title="Undefined",Streek TV (720p) [Not 24/7]
 http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
+#EXTINF:-1 tvg-id="StreekstadCentral.nl@SD" tvg-logo="https://i.imgur.com/9gM6rPb.png" group-title="General",Streekstad Alkmaar Centraal (1080p)
+https://videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alkmaar.m3u8
 #EXTINF:-1 tvg-id="Studio040TV.nl@SD" tvg-logo="https://i.imgur.com/NBludRL.png" group-title="General",Studio040 TV (720p)
 https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
 #EXTINF:-1 tvg-id="StudioRheden.nl@SD" tvg-logo="https://i.imgur.com/swfxaac.png" group-title="Undefined",Studio Rheden (1080p)

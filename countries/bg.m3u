@@ -9,9 +9,6 @@ https://shift03.isp.bg/BNT2_HD/index.m3u8
 https://shift03.isp.bg/BNT3_HD/index.m3u8
 #EXTINF:-1 tvg-id="BNT4.bg@SD" tvg-logo="https://i.imgur.com/Lw8b3yu.png" group-title="General",BNT 4 (1080p)
 https://shift03.isp.bg/BNT4_HD/index.m3u8
-#EXTINF:-1 tvg-id="cinebox.bg@SD" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",cine.box
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://212.70.131.37:8000/play/a08b
 #EXTINF:-1 tvg-id="CityTV.bg@SD" tvg-logo="https://i.imgur.com/mFL452f.png" group-title="Music",City TV (576p) [Not 24/7]
 https://tv.city.bg/play/tshls/citytv/index.m3u8
 #EXTINF:-1 tvg-id="CodeFashionTV.bg@SD" tvg-logo="https://i.imgur.com/mVc2g64.png" group-title="Lifestyle",Code Fashion TV (1080p)
@@ -33,8 +30,8 @@ https://shift03.isp.bg/MovieStar/index.m3u8
 http://hls127.freeott.top:8080/BG_Nickelodeon/video.m3u8
 #EXTINF:-1 tvg-id="RMTV.bg@SD" tvg-logo="https://rmtv.bg/img/logo.png" group-title="Undefined",RMTV (288p)
 https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
-#EXTINF:-1 tvg-id="ThisisBulgariaHD.bg@SD" tvg-logo="https://i.imgur.com/062jkXw.png" group-title="Entertainment",This is Bulgaria HD (1080p)
-https://streamer103.neterra.tv/thisisbulgaria/live.m3u8
+#EXTINF:-1 tvg-id="TheVoice.bg@SD" tvg-logo="https://i.imgur.com/OoJSmoj.png" group-title="Music",The Voice TV (720p)
+https://bss1.neterra.tv/thevoice/thevoice.m3u8
 #EXTINF:-1 tvg-id="TiankovFolk.bg@SD" tvg-logo="https://i.imgur.com/VKY4q64.png" group-title="Music",Tiankov Folk (576p)
 https://streamer103.neterra.tv/tiankov-folk/live.m3u8
 #EXTINF:-1 tvg-id="TiankovOrientFolk.bg@SD" tvg-logo="https://i.imgur.com/33LexyP.png" group-title="Music",Tiankov Orient Folk (576p)

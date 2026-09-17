@@ -158,6 +158,8 @@ http://stream.mcquack.net/446/index.m3u8
 http://775065.live.tvstitch.com/playlist.m3u8?source=aHR0cHM6Ly9obHMtY2RuMi5keXZ5YXBwLmNvbS9rb25rdXJlbnQtdWtyYWluYS90cmFja3MtdjFhMS9tb25vLnRzLm0zdTg/dG9rZW49ZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmphR0Z1Ym1Wc1gybGtJam96TVRFc0ltTm9ZVzV1Wld4ZmJtRnRaU0k2SWx4MU1EUXhZVngxTURRelpWeDFNRFF6WkZ4MU1EUXpZVngxTURRME0xeDFNRFEwTUZ4MU1EUXpOVngxTURRelpGeDFNRFEwTWlCY2RUQTBNak5jZFRBME0yRmNkVEEwTkRCY2RUQTBNekJjZFRBME5UZGNkVEEwTTJSY2RUQTBNekFpTENKcGNDSTZJakUzT0M0eE16WXVOREl1TWpJd0lpd2lZMjkxYm5SeWVTSTZJbFZyY21GcGJtVWlMQ0oxYzJWeVgybGtJam8zTkRBM0xDSjFjMlZ5WDNCb2IyNWxJam9pS3pNNE1Ea3pNRGsyTnpReU15SXNJblZ6WlhKZmNtOXNaWE1pT2xzaVkyeHBaVzUwSWwwc0luQnliMlpwYkdWZmFXUWlPalkwTnpFc0luTmxjM05wYjI1ZmFXUWlPaUprTURBNU5tSm1PQzB5TTJVMUxUUmxaVFl0WW1Vek5TMW1PREE0TXpsbFpqbGtPRFFpTENKbGJuWnBjbTl1YldWdWRDSTZJbkJ5YjJSMVkzUnBiMjRpTENKd2JHRjBabTl5YlNJNklrUmxjMnQwYjNBaUxDSjFjMlZ5WDJGblpXNTBJam9pVFc5NmFXeHNZVnd2TlM0d0lDaFhhVzVrYjNkeklFNVVJREV3TGpBN0lGZHBialkwT3lCNE5qUXBJRUZ3Y0d4bFYyVmlTMmwwWEM4MU16Y3VNellnS0V0SVZFMU1MQ0JzYVd0bElFZGxZMnR2S1NCRGFISnZiV1ZjTHpFMU1pNHdMakF1TUNCVFlXWmhjbWxjTHpVek55NHpOaUlzSW1WNGNDSTZNVGM0T0RNek5qTXdOSDAuOGgzdDlhSkFPUjh0djhvX0NZWjlDbHVuaTVvZ2NiRVFVcC1SbThlcUMwNA==&master=311
 #EXTINF:-1 tvg-id="KusKus.ua@SD" tvg-logo="https://i.imgur.com/4a4qX0P.png" group-title="Undefined",Kus-Kus
 https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="Kyiv.ua@SD" tvg-logo="https://i.imgur.com/TVuCY4N.png" group-title="News",Kyiv (1080p)
+https://api-tv.ipnet.ua/api/v1/manifest/1293296300.m3u8
 #EXTINF:-1 tvg-id="Lale.ua@SD" tvg-logo="https://i.imgur.com/CNhqVHd.png" http-user-agent="curl/8.16.0" group-title="Kids",Lale
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.0.50/index.m3u8
@@ -255,6 +257,8 @@ https://dash2.antik.sk/live/test_rybalka_tv_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="SaltTV.ua@SD" tvg-logo="https://i.imgur.com/Y3FRF0g.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Salt TV (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/398/index.m3u8
+#EXTINF:-1 tvg-id="Simon.ua@SD" tvg-logo="https://i.imgur.com/FfYVCJC.png" group-title="General",Simon (720p) [Geo-blocked]
+https://hls.simon.ua/live-HD/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SK1.ua@SD" tvg-logo="https://i.imgur.com/XiXwr5h.png" group-title="News",SK 1 (720p)
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Sonce.ua@SD" tvg-logo="https://i.imgur.com/MrkQLTp.png" http-user-agent="curl/8.16.0" group-title="Entertainment",Sonce
@@ -327,12 +331,12 @@ http://stream.mcquack.net/341/index.m3u8
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78
-#EXTINF:-1 tvg-id="ViasatKino.ua@Bulgaria" tvg-logo="https://i.imgur.com/io0WAkA.png" group-title="Movies",Viasat Kino Bulgaria (1080p)
-http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua@Romania" tvg-logo="https://i.imgur.com/io0WAkA.png" http-referrer="https://cool-tv.net/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Movies",Viasat Kino Romania
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
+#EXTINF:-1 tvg-id="ViasatKino.ua@Bulgaria" tvg-logo="https://i.imgur.com/io0WAkA.png" group-title="Movies",Viasat Kino Bulgaria (1080p)
+http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
 #EXTINF:-1 tvg-id="ViasatKino.ua@Balkan" tvg-logo="https://i.imgur.com/io0WAkA.png" group-title="Movies",Viasat Kino Balkan (1080p)
 http://176.61.157.250/TV1000/index.m3u8
 #EXTINF:-1 tvg-id="ViasatKinoComedy.ua@SD" tvg-logo="https://i.imgur.com/qVYt8kP.png" http-referrer="http://live.tvstitch.com/" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" group-title="Comedy;Movies",Viasat Kino Comedy

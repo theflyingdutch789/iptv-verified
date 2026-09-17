@@ -121,12 +121,17 @@ https://servilive.com:3263/live/channel12live.m3u8
 https://servilive.com:3879/live/telesaltillolive.m3u8
 #EXTINF:-1 tvg-id="TeleUV.mx@SD" tvg-logo="https://i.imgur.com/8MdUH69.jpeg" group-title="Education",Tele UV [Not 24/7]
 https://58fe359775f31.streamlock.net/tvuv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleYucatan.mx@SD" tvg-logo="https://i.imgur.com/XkpDSmO.png" http-referrer="https://www.teleyucatan.gob.mx/" group-title="Undefined",Tele Yucatan (1080p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://www.teleyucatan.gob.mx/
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
 #EXTINF:-1 tvg-id="TelehitMusica.mx@SD" tvg-logo="https://i.imgur.com/CofYjWh.png" group-title="Music",Telehit Musica (1080p)
 http://181.119.66.28:8081/TELEHIT-MUSICA/index.m3u8
 #EXTINF:-1 tvg-id="Telemax.mx@XEWHTDT" tvg-logo="https://i.imgur.com/klhTyDU.png" group-title="Undefined",Telemax (XEWH-TDT) (1080p)
 https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleplaySureste.mx@SD" tvg-logo="https://i.imgur.com/MeV5N08.png" group-title="Entertainment",Teleplay Sureste (720p)
 https://player.tvstream.mx/livestream/teleplay/livehd/playlist.m3u8
+#EXTINF:-1 tvg-id="TransmediaTelevisionMorelia.mx@SD" tvg-logo="https://i.imgur.com/jYMpVQA.png" group-title="Undefined",Transmedia Televisión Morelia (614p) [Geo-blocked]
+http://streamingcws20.com:1935/tmtv/videotmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TRCTV.mx@SD" tvg-logo="https://i.imgur.com/W4xwCdl.png" group-title="Undefined",TRC Televisión (720p)
 https://5fe2654d6127d.streamlock.net/trc/videotrc/playlist.m3u8
 #EXTINF:-1 tvg-id="TuristikTV.mx@SD" tvg-logo="https://i.imgur.com/g9j0ze8.png" group-title="Travel",Turistik TV (720p)
@@ -143,6 +148,8 @@ https://5ca3e84a76d30.streamlock.net/tv44gto/tv44gto.smil/.m3u8
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMarLaPaz.mx@SD" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="General",TV Mar La Paz (1080p)
 https://5fc584f3f19c9.streamlock.net/tvmarlapaz/smil:tvmarlapaz.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMarLosCabos.mx@SD" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="General",TV Mar Los Cabos (1080p)
+https://5fc584f3f19c9.streamlock.net/tvmarloscabos/smil:tvmarloscabos.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMarPuertoVallarta.mx@SD" tvg-logo="https://i.imgur.com/z9iVlMn.png" group-title="General",TV Mar Puerto Vallarta (1080p)
 https://5ca9af4645e15.streamlock.net/tvmarvallarta/videotvmarvallarta/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMigrante.mx@SD" tvg-logo="https://i.imgur.com/tVgkiJF.png" group-title="General",TV Migrante (720p)
@@ -153,12 +160,8 @@ https://5ca3e84a76d30.streamlock.net/universidadgto/videouniversidadgto/playlist
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPCuliacan.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",TVP Culiacán (720p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPLosMochis.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",TVP Los Mochis (720p) [Not 24/7]
-https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPMazatlan.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",TVP Mazatlán (720p) [Not 24/7]
 https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPObregon.mx@SD" tvg-logo="https://i.imgur.com/uX1S3kt.png" group-title="General",TVP Obregón (720p) [Not 24/7]
-https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="UAATV.mx@SD" tvg-logo="https://i.imgur.com/brCSiGh.png" group-title="Culture;Education;Public",UAA TV (1080p)
 https://5fe2654d6127d.streamlock.net:443/uaa2/videouaa2/playlist.m3u8
 #EXTINF:-1 tvg-id="UltraTVPuebla.mx@SD" tvg-logo="https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png" group-title="Undefined",Ultra TV Puebla (720p) [Not 24/7]

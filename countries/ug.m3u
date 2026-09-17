@@ -1,3 +1,5 @@
 #EXTM3U x-tvg-url="https://worker-9dd4.onrender.com/guide.xml.gz"
+#EXTINF:-1 tvg-id="AlphaDigital.ug@SD" tvg-logo="https://i.imgur.com/sLt242H.png" group-title="Religious",Alpha Digital (480p)
+https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
 #EXTINF:-1 tvg-id="KSTVUganda.ug@SD" tvg-logo="https://i.imgur.com/MMPzPSl.png" group-title="Religious",KSTV Uganda
 https://live.esteem.africa/kstv/hls/0/stream.m3u8
