@@ -5,8 +5,8 @@ https://live-fi.tvkaista.net/eveo/live.m3u8?hd=true
 https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Jim.fi@SD" tvg-logo="https://i.imgur.com/PkMgY0K.png" group-title="Entertainment",Jim (720p)
 https://live-fi.tvkaista.net/jim/live.m3u8?hd=true
-#EXTINF:-1 tvg-id="Liv.fi@SD" tvg-logo="https://i.imgur.com/k6NsXBj.png" group-title="Entertainment",Liv (720p)
-https://live-fi.tvkaista.net/liv/live.m3u8?hd=true
+#EXTINF:-1 tvg-id="JRTVJarviradio.fi@SD" tvg-logo="https://jarviradio.fi/jrtv2/wp-content/uploads/2022/01/jrtv1.jpg" group-title="Music",JRTV Jarviradio (720p)
+https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
 #EXTINF:-1 tvg-id="MTVUutiset.fi@SD" tvg-logo="https://i.imgur.com/ZO8ShOK.png" group-title="News",MTV Uutiset (720p)
 https://live.streaming.a2d.tv/asset/20025962.isml/.m3u8
 #EXTINF:-1 tvg-id="NarTV.fi@SD" tvg-logo="https://i.imgur.com/Ht5yePq.png" group-title="General",Nar-TV (360p)

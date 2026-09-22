@@ -11,14 +11,16 @@ https://stream.a1mediagroep.nl/hls/a1tv.m3u8
 https://dnx1f4sl30ba2.cloudfront.net/nlpo/clr-nlpo/altenatv/index.m3u8
 #EXTINF:-1 tvg-id="AssenTV.nl@SD" tvg-logo="https://i.imgur.com/upik15D.png" group-title="General",Assen TV (720p)
 https://takeoff.jetstre.am/?account=OmroepAssen&file=OmroepAssenTV/playlist.m3u8&output=playlist.m3u8&protocol=https&service=webdav&type=live
-#EXTINF:-1 tvg-id="AT5.nl@SD" tvg-logo="https://i.imgur.com/iAiSlEL.png" group-title="General",AT5
-https://takeoff.jetstre.am/?account=atvijf&file=live&output=playlist.m3u8&protocol=https&service=wowza&type=live
 #EXTINF:-1 tvg-id="BEATTV.nl@SD" tvg-logo="https://i.imgur.com/egK33Dj.png" group-title="Entertainment;Music",BEATTV (1080p)
 https://tv.beatfm.nl/live.m3u8
 #EXTINF:-1 tvg-id="BNRNieuwsradio.nl@SD" tvg-logo="https://i.imgur.com/d0KLwkj.png" group-title="Undefined",BNR Nieuwsradio (720p) [Geo-blocked]
 https://bnr-cache-cdp.triple-it.nl/studio/index.m3u8
 #EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Czechia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" group-title="Movies",Canal+ Action Europe Czechia
 http://46.149.191.219:9106/play/a01g
+#EXTINF:-1 tvg-id="CanalPlusActionEurope.nl@Slovakia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canal%2B_Action_2024.svg/1920px-Canal%2B_Action_2024.svg.png" group-title="Movies",Canal+ Action Europe Slovakia (720p)
+http://151.80.18.177:86/Canal+_Family_HD/index.m3u8
+#EXTINF:-1 tvg-id="DeepHouseDistrict.nl@SD" tvg-logo="https://i.imgur.com/IV2Qvc0.png" group-title="Music",Deep House District (1080p)
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
 #EXTINF:-1 tvg-id="DitisHelmond.nl@SD" tvg-logo="https://i.imgur.com/fGAaBAs.png" group-title="General",Dit is Helmond (480p)
 http://ms2.mx-cd.net/tv/Omroep_Helmond.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="DocuBox.nl@Russia" tvg-logo="https://i.imgur.com/pX4U9OG.png" group-title="Documentary",DocuBox Russia (1080p)
@@ -31,6 +33,9 @@ https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 https://dash3.antik.sk/live/test_fast_and_funbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="FightBox.nl@HD" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="Sports",FightBox HD
 https://nosignal1.antenaplay.ro/hls/fightbox-hd/index.m3u8
+#EXTINF:-1 tvg-id="FightBox.nl@SD" tvg-logo="https://i.imgur.com/mRsnztA.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Sports",FightBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+https://webtvstream.bhtelecom.ba/fightbox.m3u8
 #EXTINF:-1 tvg-id="FomixTV.nl@HD" tvg-logo="https://i.imgur.com/7SLYEMG.png" http-referrer="https://www.fomix.nl" group-title="General;Music;Public",FomixTV (1080p)
 #EXTVLCOPT:http-referrer=https://www.fomix.nl
 https://stream.fomixmedia.nl/FomixTV/video.m3u8
@@ -42,16 +47,12 @@ https://webtvstream.bhtelecom.ba/funbox.m3u8
 https://webtvstream.bhtelecom.ba/gametoon.m3u8
 #EXTINF:-1 tvg-id="GigantFM.nl@SD" tvg-logo="https://i.imgur.com/LwEHfjD.png" group-title="Music",Gigant FM (720p)
 https://video.uitzending.tv:19360/gigantfm/gigantfm.m3u8
-#EXTINF:-1 tvg-id="Haarlem105TV.nl@SD" tvg-logo="https://i.imgur.com/xyOVVZ0.png" group-title="General",Haarlem105 TV (720p)
-https://d2qm50imcbcfqx.cloudfront.net/nlpo/clr-nlpo/haarlem105/index.m3u8
 #EXTINF:-1 tvg-id="HypeVisualRadio.nl@SD" tvg-logo="https://cdn.onlineradiobox.com/img/fblogo/1/97371.v21.png" group-title="Music",Hype Visual Radio (1080p)
 https://streammix.alsolnet.com/hyperadio/live/playlist.m3u8
 #EXTINF:-1 tvg-id="IdeaalTV.nl@SD" tvg-logo="https://i.imgur.com/JLYQFoX.png" group-title="General",Ideaal TV (480p) [Not 24/7]
 https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="INFAST.nl@SD" tvg-logo="https://i.imgur.com/VwAMqA7.png" group-title="Lifestyle",INFAST (1080p)
 https://amg00861-terninternation-lifestyle-samsungau-kdlyy.amagi.tv/playlist/amg00861-terninternation-lifestyle-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="INTRAVEL.nl@Philippines" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Intravel.png" group-title="Travel",INTRAVEL (1080p)
-https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="InTrouble.nl@SD" tvg-logo="https://i.imgur.com/a40chFI.png" group-title="Auto;Outdoor;Sports",InTrouble (1080p)
 https://amg00861-amg00861c6-stirr-us-8229.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="INWILD.nl@SD" tvg-logo="https://cdn.uc.assets.prezly.com/92770c71-9d6f-400f-8311-38e9cfec52c2/InWild_landscape-green.png" group-title="Documentary",INWILD (1080p)
@@ -109,8 +110,6 @@ https://d2pqcu7r58rgg1.cloudfront.net/nlpo/clr-nlpo/omroepvenlo/index.m3u8
 https://d3j015sg8r68y.cloudfront.net/nlpo/clr-nlpo/omroepvenray/index.m3u8
 #EXTINF:-1 tvg-id="OmroepWest.nl@HD" tvg-logo="https://i.imgur.com/5IDb9fk.png" group-title="Undefined",Omroep West HD (1080p) [Not 24/7]
 https://d1axml5ozykh3g.cloudfront.net/live/omroepwest/tv/index.m3u8
-#EXTINF:-1 tvg-id="OmroepZeeland.nl@SD" tvg-logo="https://i.imgur.com/3c3QUSn.png" group-title="General",Omroep Zeeland (1080p)
-https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
 #EXTINF:-1 tvg-id="OmropFryslan.nl@SD" tvg-logo="https://i.imgur.com/khacDTU.png" group-title="General",Omrop Fryslan (1080p) [Not 24/7]
 https://s-d15f8b0b.b.cdn.bluebillywig.com/live/omropfryslan/f8f68bd5/index.m3u8
 #EXTINF:-1 tvg-id="OOGTV.nl@SD" tvg-logo="https://i.imgur.com/WzxY0PL.png" group-title="General",OOG TV (720p)
@@ -129,10 +128,12 @@ https://stream.radio350.nl/hls/radio350.m3u8
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 #EXTINF:-1 tvg-id="RadioAalsmeerTV.nl@SD" tvg-logo="https://i.imgur.com/SYzjLlI.png" group-title="Undefined",Radio Aalsmeer TV (720p) [Not 24/7]
 https://radioaalsmeer.nl:4443/live/tv.m3u8
-#EXTINF:-1 tvg-id="RadioToppers.nl@SD" tvg-logo="https://i.imgur.com/9OMsUd7.png" group-title="Entertainment",RadioToppers (720p)
-https://server-67.stream-server.nl:1936/RadioToppers/RadioToppers/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioJND.nl@SD" tvg-logo="https://i.imgur.com/nyVlZeL.png" group-title="Music",Radio JND (1080p)
+https://radiojnd.cdn.hostin.cc/radiojnd/playlist.m3u8
 #EXTINF:-1 tvg-id="Regio90TV.nl@SD" tvg-logo="https://i.imgur.com/UGnm1jd.png" group-title="Undefined",Regio90 TV (720p)
 https://ms2.mx-cd.net/dtv-02/260-2403096/Regio90TV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RN7.nl@SD" tvg-logo="https://i.imgur.com/dYBTrLc.png" group-title="Undefined",RN7 (1080p)
+https://streams.rn7.nl/memfs/49823eea-a17d-4e39-a435-75b6d60df96e.m3u8
 #EXTINF:-1 tvg-id="RPLWoerden.nl@SD" tvg-logo="https://i.imgur.com/UdYMXWQ.png" group-title="General",RPL Woerden (720p)
 https://d1893oi5c6e5u0.cloudfront.net/nlpo/clr-nlpo/rpltvwoerden/index.m3u8
 #EXTINF:-1 tvg-id="RTV1.nl@SD" tvg-logo="https://i.imgur.com/lRCsPWT.png" group-title="Undefined",RTV 1 (Netherlands) (720p)
@@ -181,26 +182,26 @@ https://d2n2i1jp4j20kw.cloudfront.net/nlpo/clr-nlpo/schietv/index.m3u8
 https://video-eu1.streamerr.co/hls/s7fdeb27a49/live.m3u8
 #EXTINF:-1 tvg-id="SOL2.nl@SD" tvg-logo="https://i.imgur.com/VEbhJRA.png" group-title="General",SOL2 (1080p)
 https://live.streamteam.eu:8443/sol2playout/sol2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="StreekstadCentral.nl@SD" tvg-logo="https://i.imgur.com/9gM6rPb.png" group-title="General",Streekstad Central (1080p)
-https://videostreams.streekstadcentraal.nl/hls/streekstad_alkmaar/streekstad_alkmaar.m3u8
 #EXTINF:-1 tvg-id="StreekTV.nl@SD" tvg-logo="https://i.imgur.com/48lkh57.png" group-title="Undefined",StreekTV (720p) [Not 24/7]
 http://cdn22.streampartner.nl/streektv/streektv/playlist.m3u8
 #EXTINF:-1 tvg-id="Studio040TV.nl@SD" tvg-logo="https://i.imgur.com/NBludRL.png" group-title="General",Studio040 TV (720p)
 https://d591ovpa48r6h.cloudfront.net/nlpo/clr-nlpo/studio040tv/index.m3u8
 #EXTINF:-1 tvg-id="StudioRheden.nl@SD" tvg-logo="https://i.imgur.com/swfxaac.png" group-title="Undefined",Studio Rheden (1080p)
 https://stream.studiorhedenlive.nl/hlstv/stream.m3u8
+#EXTINF:-1 tvg-id="TVEllef.nl@SD" tvg-logo="https://i.imgur.com/FaCd2QY.png" group-title="Undefined",TV Ellef (1080p)
+http://cdn22.streampartner.nl/tvellef/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRain.nl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/960px-Tvrain.svg.png" group-title="Undefined",TV Rain (1080p) [Geo-blocked]
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
 #EXTINF:-1 tvg-id="UStad.nl@SD" tvg-logo="https://i.imgur.com/9F8ieEz.png" group-title="Undefined",UStad (1080p)
 http://media.rtvutrecht.nl/live/rtvutrecht/ustad/index.m3u8
+#EXTINF:-1 tvg-id="VechtdalTV.nl@SD" tvg-logo="https://i.imgur.com/MhcKEwr.png" group-title="Undefined",Vechtdal TV (480p)
+https://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WeertFMTV.nl@SD" tvg-logo="https://i.imgur.com/8bt6xt2.png" group-title="General",WeertFM TV (720p)
 https://ms2.mx-cd.net/tv/151-573495/WeertFM_TV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WOS.nl@SD" tvg-logo="https://i.imgur.com/L7MUBIo.png" group-title="Undefined",WOS (1080p)
 https://ms2.mx-cd.net/dtv-11/99-660295/WOS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="XITE.nl@SD" tvg-logo="https://i.imgur.com/jxuwGRi.png" group-title="Music",XITE (720p)
 https://xite-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="XITEClassicCountry.nl@SD" tvg-logo="https://i.imgur.com/XQrMCkT.png" group-title="Music",XITE Classic Country (720p)
-https://jmp2.uk/plu-623b92a2ccefed0007b1db48.m3u8
 #EXTINF:-1 tvg-id="XITEHits.nl@NL" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Music",XITE Hits (1080p)
 https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 #EXTINF:-1 tvg-id="XITEHits.nl@Germany" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Music",XITE Hits Germany (1080p)
@@ -209,8 +210,6 @@ https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
 #EXTINF:-1 tvg-id="XITEJustChill.nl@US" tvg-logo="https://provider-static.plex.tv/epg/cms/production/927dd614-017d-49dd-9eb9-0ed79d09084e/xitejustchill_logo_light_-_Arlette_FiranRDX.png" group-title="Music",XITE Just Chill (1080p)
 https://dvnftgdlbnemm.cloudfront.net/XITE_Just_Chill.m3u8
-#EXTINF:-1 tvg-id="XITEReggaeVibes.nl@HD" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c7506335-967f-46a9-917a-2a35475cd96c/xitereggaevibes_logo_light_-_Arlette_FiranRDX.png" group-title="Music",XITE Reggae Vibes (1080p)
-https://dw2m7yrngfg8c.cloudfront.net/XITE_Reggae_Vibes.m3u8
 #EXTINF:-1 tvg-id="XITERockxMetal.nl@US" tvg-logo="https://i.imgur.com/uIIUIuN.png" group-title="Music",XITE Rock x Metal (1080p)
 https://d198ro05q94rc4.cloudfront.net/XITE_Rock_On.m3u8
 #EXTINF:-1 tvg-id="ZFMZoetermeerTV.nl@SD" tvg-logo="https://i.imgur.com/vrjACvy.png" group-title="Music",ZFM Zoetermeer TV (720p)
