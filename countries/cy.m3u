@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AdaTV.cy@SD" tvg-logo="https://i.imgur.com/YWmkUWU.png" group-title="General",Ada TV
-https://yayin1.canlitv.fun/live/kibrisadatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="ANT1Cyprus.cy@SD" tvg-logo="https://i.imgur.com/2KAObBt.png" group-title="Entertainment",ANT1 Cyprus (1080p)
 http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="MiddleEastTV.cy@SD" tvg-logo="https://i.imgur.com/oKU5KeW.png" group-title="Religious",Middle East TV (1080p)
