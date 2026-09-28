@@ -1,8 +1,8 @@
-run 22 started 2026-09-27T08:40:32+00:00 took 14.2 min; 10944 unique urls
-entries=10944 kept=6521 (60%) slow=1080 (10%) dead=3343 (31%)
-kept: startup p50=1.29s p90=3.02s | ratio p50=11.1x p90=66.3x | kinds={'hls': 6436, 'direct': 38, 'dash': 47}
-slow: startup>=4s 822, ratio<2 695
-dead reasons: [('http_403', 804), ('timeout', 765), ('http_404', 670), ('tls', 235), ('dns', 180), ('connect', 98), ('media_http_404', 65), ('media_oversize', 64), ('not_playlist', 64), ('http_400', 37)]
-second attempt rescued: 222 streams (phase B) + 43 (phase A retry)
-channels: 5881 distinct in verified-best.m3u from 6521 feeds; stable.m3u=5287
-countries: 163; top [('us', 1564), ('se', 374), ('in', 372), ('de', 345), ('ru', 280), ('do', 192), ('es', 165), ('it', 161), ('br', 138), ('cl', 127)]
+run 23 started 2026-09-28T09:04:20+00:00 took 13.9 min; 10976 unique urls
+entries=10976 kept=6703 (61%) slow=944 (9%) dead=3329 (30%)
+kept: startup p50=1.31s p90=3.02s | ratio p50=10.1x p90=45.7x | kinds={'hls': 6617, 'direct': 39, 'dash': 47}
+slow: startup>=4s 787, ratio<2 532
+dead reasons: [('http_403', 822), ('timeout', 718), ('http_404', 679), ('tls', 243), ('dns', 178), ('connect', 102), ('media_http_404', 74), ('not_playlist', 69), ('media_oversize', 66), ('segment_http_403', 41)]
+second attempt rescued: 343 streams (phase B) + 33 (phase A retry)
+channels: 6034 distinct in verified-best.m3u from 6703 feeds; stable.m3u=5311
+countries: 162; top [('us', 1560), ('se', 375), ('de', 352), ('in', 352), ('ru', 295), ('do', 194), ('es', 170), ('it', 164), ('br', 135), ('ua', 124)]
