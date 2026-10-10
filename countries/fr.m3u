@@ -11,10 +11,16 @@ https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
 #EXTINF:-1 tvg-id="AfricanewsFrench.fr@SD" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News",Africanews French (720p)
 https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 tvg-id="AlpedHuezTV.fr@SD" tvg-logo="https://i.imgur.com/090tCQ5.png" group-title="General",Alpe d'Huez TV (720p) [Not 24/7]
+https://edge13.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
 #EXTINF:-1 tvg-id="BFM2.fr@HD" tvg-logo="https://alloforfait.fr/wp-content/uploads/2024/03/logo-bfm2-300x200.jpg" group-title="News",BFM2 (1080p)
 https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
 #EXTINF:-1 tvg-id="Caillou.fr@SD" tvg-logo="https://i.imgur.com/RgKaoe4.png" group-title="Undefined",Caillou
 https://do7nccdsswstc.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1aso0bc668saa/a5233c83-f772-4a81-959a-45ec7877ef61/5.m3u8
+#EXTINF:-1 tvg-id="CanalPlusCinemas.fr@SD" tvg-logo="https://i.imgur.com/fvPoNEa.jpeg" group-title="Movies",Canal+ Cinemas (720p)
+http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
+#EXTINF:-1 tvg-id="CanalPlusSport.fr@SD" tvg-logo="https://i.imgur.com/EOXnU15.png" group-title="Sports",Canal+ Sport (1080p) [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/31.m3u8
 #EXTINF:-1 tvg-id="CannesLerinsTV.fr@SD" tvg-logo="https://i.imgur.com/atlgnum.png" group-title="General",Cannes Lerins TV (1080p)
 https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 #EXTINF:-1 tvg-id="CineNanar.fr@SD" tvg-logo="https://i.imgur.com/YnUZd3W.png" group-title="Movies",Cine Nanar (1080p)
@@ -23,8 +29,12 @@ https://zylo-cinenanar-rakuten.amagi.tv/playlist.m3u8
 https://amg00711-zylo-amg00711c8-rakuten-uk-2686.playouts.now.amagi.tv/playlist/amg00711-zylofast-cinewestern-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="CNEWSPRIME.fr@HD" tvg-logo="https://www.cnews.fr/themes/cnews/img/cnews-prime.png" group-title="News",CNEWS PRIME (1080p)
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-prime-dm.m3u8
+#EXTINF:-1 tvg-id="DBMTV.fr@SD" tvg-logo="https://i.imgur.com/ab6p2SW.png" group-title="Music",DBM TV (1080p)
+https://dbmtv.vedge.infomaniak.com/livecast/dbmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="EmotionL.fr@SD" tvg-logo="https://i.imgur.com/MP34aaj.png" group-title="Movies",Emotion L (1080p)
 https://rakutenaa-zylo-emotional-rakuten-r1zkm.amagi.tv/playlist/rakutenAA-zylo-emotional-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-id="Equidia.fr@SD" tvg-logo="https://i.imgur.com/QPpbRcZ.png" group-title="Sports",Equidia (1080p)
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/live2.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Euro_News.png" group-title="News",Euronews English HD
 https://dash4.antik.sk/live/test_euronews/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews French (720p)
@@ -45,19 +55,23 @@ https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HL
 http://89.187.185.76:8080/France3/index.m3u8
 #EXTINF:-1 tvg-id="France3.fr@Lorraine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/France_3_Lorraine_-_Logo_2018.svg" group-title="General",France 3 Lorraine (1080p)
 http://5.180.164.197:8080/FRANCE3/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="News",France 24 Spanish (1080p)
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="News",France 24 (1080p)
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="News",France 24 English (1080p)
 https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="News",France 24 Arabic (1080p)
 https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr@French" tvg-logo="https://i.imgur.com/u8N6uoj.png" group-title="News",France 24 (1080p)
-https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="News",France 24 Spanish (1080p)
-https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="Franceinfo.fr@SD" tvg-logo="https://i.imgur.com/eITXz6A.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36" group-title="News",Franceinfo (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/franceinfo.m3u8
 #EXTINF:-1 tvg-id="FrequenceNovelas.fr@SD" tvg-logo="https://i.imgur.com/fEjNAps.png" group-title="Series",Frequence Novelas (1080p)
 https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="GenerationsTV.fr@SD" tvg-logo="https://i.imgur.com/NgBrDMe.png" group-title="Undefined",Generations TV (576p)
+https://event.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+#EXTINF:-1 tvg-id="GolfPlus.fr@SD" tvg-logo="https://i.imgur.com/WHnddkg.png" group-title="Sports",Golf + (1080p) [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/49.m3u8
 #EXTINF:-1 tvg-id="Gong.fr@SD" tvg-logo="https://i.imgur.com/lA9UFMG.png" group-title="Animation",Gong (1080p)
 https://amg01596-gongnetworks-gong-ono-vh5f2.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="Gulli.fr@SD" tvg-logo="https://i.imgur.com/kqYssbW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Kids",Gulli
@@ -73,14 +87,13 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fd
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="LittoralFMTV.fr@SD" tvg-logo="https://i.imgur.com/DCZKAQ1.png" group-title="Music",Littoral FM TV (720p)
 https://live.creacast.com/littoralfm-ch1/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="M6.fr@HD" tvg-logo="https://i.imgur.com/7GVp3fW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",M6 HD (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://99.27.51.147:8080/M6/index.m3u8
 #EXTINF:-1 tvg-id="MDL.fr@SD" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="Undefined",MDL (720p)
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="MezzoLive.fr@SD" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="Music",Mezzo Live (1080p)
-http://stream.mcquack.net/276/index.m3u8
 #EXTINF:-1 tvg-id="MyZenTV.fr@SD" tvg-logo="https://i.imgur.com/fIi8o0C.png" group-title="Relax",MyZen TV (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="P2MTV.fr@SD" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="Music",P2M TV (720p)
-https://vdo2.pro-fhi.net:3207/stream/play.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr@SD" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Movies",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaComedy.fr@SD" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Comedy",Persiana Comedy
@@ -113,6 +126,8 @@ https://ptravelhls.persiana.live/hls/stream.m3u8
 https://turkhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaVibe.fr@HD" tvg-logo="" group-title="Music",Persiana Vibe
 https://raphls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PuissanceTV.fr@SD" tvg-logo="https://pbs.twimg.com/profile_images/1274572654016675842/A6v8Qo_X_400x400.jpg" group-title="General",Puissance TV
+https://event.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
 #EXTINF:-1 tvg-id="QwestTV.fr@SD" tvg-logo="https://i.imgur.com/DjgNNHK.png" group-title="Music",Qwest TV (1080p)
 https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="QwestTVJazzBeyond.fr@SD" tvg-logo="https://i.imgur.com/89yWH5L.png" group-title="Music",Qwest TV Jazz & Beyond (1080p)
@@ -131,6 +146,8 @@ https://49d735318d6b4c30a24a7997ea594e1b.mediatailor.us-west-2.amazonaws.com/v1/
 https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-817-FR-SONYONEHITSACTION-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyOneHitsComedie.fr@HD" tvg-logo="https://i.imgur.com/8sHuxxS.png" group-title="Movies",Sony One Hits Comedie (1080p)
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
+#EXTINF:-1 tvg-id="TMC.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="General",TMC HD (1080p) [Geo-blocked]
+http://tv.streambox.fr/live/testlivestream/testlivestream/13.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="Music",Trace Brazuca (1080p)
 https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@HD" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="Music",Trace Brazuca HD (1080p)
@@ -149,6 +166,8 @@ https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
 http://5.180.164.197:8080/TV5MONDE/index.m3u8
 #EXTINF:-1 tvg-id="TV7Colmar.fr@SD" tvg-logo="https://i.imgur.com/kSdGi43.png" group-title="General",TV7 Colmar (576p)
 https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAlsace.fr@HD" tvg-logo="https://academie.kasumay.international/ico/radioalsace.png" group-title="General",TV Alsace (1080p)
+http://194.163.157.137:8080/hls/radioalsace.m3u8
 #EXTINF:-1 tvg-id="TVMulhouse.fr@HD" tvg-logo="https://academie.kasumay.international/ico/radiomulhouse.png" group-title="General",TV Mulhouse (1080p)
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
 #EXTINF:-1 tvg-id="viaTelePaese.fr@SD" tvg-logo="https://i.imgur.com/TLZsAKK.png" group-title="General",viaTelePaese (720p)
