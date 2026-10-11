@@ -29,8 +29,8 @@ https://cdn.streamhispanatv.net:3011/live/mastvgtlive.m3u8
 https://video03.logicahost.com.br/maxivisiontv/maxivisiontv/playlist.m3u8
 #EXTINF:-1 tvg-id="MCNTelevision.gt@SD" tvg-logo="https://i.imgur.com/SNUaCCw.png" group-title="Religious",MCN Television (720p)
 https://eu1.servers10.com:8081/8338/index.m3u8
-#EXTINF:-1 tvg-id="NimTV.gt@SD" tvg-logo="https://i.imgur.com/mBNOSzl.png" group-title="General",Nim TV (720p) [Not 24/7]
-https://cdn.streamhispanatv.net:3210/live/nimtvgtlive.m3u8
+#EXTINF:-1 tvg-id="MultivisionCanal3.gt@SD" tvg-logo="https://i.imgur.com/6bdj2BV.jpg" group-title="General",Multivision Canal 3 (720p) [Not 24/7]
+https://stream.digitalgt.com:3136/live/multivisionlive.m3u8
 #EXTINF:-1 tvg-id="PenielKY.gt@SD" tvg-logo="https://i.imgur.com/YtPRKmS.png" group-title="Religious",Peniel K&Y (480p)
 https://s.emisoras.tv:8081/penielkids/index.m3u8
 #EXTINF:-1 tvg-id="PenielMusical.gt@SD" tvg-logo="https://i.imgur.com/IFQbGEf.png" group-title="Religious",Peniel Musical (480p)
@@ -45,10 +45,14 @@ http://45.171.64.30:6060/play/a04k/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.facebook.com/Siltv32
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, como Gecko) Chrome
 https://live20.bozztv.com/giatv/giatv-SilTvOnline/SilTvOnline/playlist.m3u8
+#EXTINF:-1 tvg-id="SolTV.gt@SD" tvg-logo="https://i.ibb.co/YXYv8sf/logo-soltv2.png" group-title="General",Sol TV (Guatemala) (720p)
+https://cdn.streamhispanatv.net:3409/live/soltvlive.m3u8
 #EXTINF:-1 tvg-id="Telecosta.gt@SD" tvg-logo="https://www.telecostaescuintla.com/gallery_gen/f57408fa00aca6d969248be4b56b48e6.png" group-title="Undefined",Telecosta (Guatemala) (720p)
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 #EXTINF:-1 tvg-id="TVFlorencia.gt@SD" tvg-logo="https://i.imgur.com/jsbwnRb.png" group-title="General",TV Florencia (720p)
 https://cdn.streamhispanatv.net:3819/live/tvflorecialive.m3u8
+#EXTINF:-1 tvg-id="TVMaya.gt@SD" tvg-logo="https://i.imgur.com/BGFa4OO.png" group-title="Education",TV Maya (480p)
+https://5ca9af4645e15.streamlock.net/mayas/videomayas/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSRetro.gt@SD" tvg-logo="https://i.imgur.com/jdnHci0.png" group-title="Classic",TVS Retro (720p)
 https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-id="VeaCanal.gt@SD" tvg-logo="https://i.imgur.com/oPJlbNf.png" group-title="Undefined",Vea Canal (720p)
