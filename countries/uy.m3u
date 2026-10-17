@@ -1,3 +1,3 @@
-#EXTM3U x-tvg-url="https://worker-9dd4.onrender.com/guide.xml.gz"
+#EXTM3U
 #EXTINF:-1 tvg-id="CanalMas.uy@SD" tvg-logo="https://i.imgur.com/gs1L1mW.png" group-title="Religious",Canal Mas (720p)
 https://canalmasuruguay.com/hls/master-abr.m3u8
