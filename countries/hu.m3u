@@ -68,8 +68,6 @@ http://rtmp1.40e.hu:8000/live/ktv.m3u8
 #EXTINF:-1 tvg-id="Kolyokklub.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/K%C3%B6ly%C3%B6kklub_II.svg/1920px-K%C3%B6ly%C3%B6kklub_II.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Kolyokklub
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/kolyokklub_atk/index.m3u8
-#EXTINF:-1 tvg-id="KomaromiTelevizio.hu@SD" tvg-logo="https://i.imgur.com/DifVZkz.png" group-title="General",Komaromi Televizio (400p)
-https://cloudfront44.lexanetwork.com:1344/relay01/HDE017.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="LiceumTV.hu@SD" tvg-logo="https://i.imgur.com/Hf122ZD.png" group-title="Culture;Education",Liceum TV (576p)
 http://193.225.32.62:8890/live.m3u8
 #EXTINF:-1 tvg-id="LifeTV.hu@SD" tvg-logo="https://i.imgur.com/3znYv1N.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Entertainment",Life TV (Hungary)
@@ -184,13 +182,11 @@ http://88.212.7.14/live/story_4_cze_atk/index.m3u8
 #EXTINF:-1 tvg-id="SuperTV2.hu@SD" tvg-logo="https://i.imgur.com/JCu1u2v.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Super TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="TelePaks.hu@SD" tvg-logo="https://i.imgur.com/T8ueztB.png" group-title="General",TelePaks (396p)
-https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu@SD" tvg-logo="https://i.imgur.com/KcTTnUA.png" group-title="Outdoor",The Fishing & Hunting Channel
+http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu@HD" tvg-logo="https://i.imgur.com/KcTTnUA.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Outdoor",The Fishing & Hunting Channel HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/fishing_hun/index.m3u8
-#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu@SD" tvg-logo="https://i.imgur.com/KcTTnUA.png" group-title="Outdoor",The Fishing & Hunting Channel
-http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8
 #EXTINF:-1 tvg-id="TLC.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png" group-title="Lifestyle",TLC (Hungary)
 http://88.212.7.14/live/tlc_hungary/index.m3u8
 #EXTINF:-1 tvg-id="TravelChannel.hu@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a3/Travel_Channel_2D_2014.svg/revision/latest?cb=20180112215118" group-title="Undefined",Travel Channel (Hungary)
@@ -226,8 +222,6 @@ http://88.212.7.14/live/viasat3/index.m3u8
 http://88.212.7.14/live/viasat6/index.m3u8
 #EXTINF:-1 tvg-id="XVTV.hu@SD" tvg-logo="https://i.ibb.co/hH2KF6W/4792.png" group-title="General",XV TV (480p)
 https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="ZalaegerszegiTV.hu@SD" tvg-logo="https://i.imgur.com/MLVPf0i.png" group-title="Undefined",Zalaegerszegi TV (360p)
-https://cloudfront44.lexanetwork.com:1344/freerelay/zegtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Zenebutik.hu@SD" tvg-logo="https://i.imgur.com/xGUlF78.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Zenebutik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/zenebutik/index.m3u8

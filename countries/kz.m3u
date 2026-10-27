@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="31Kanal.kz@SD" tvg-logo="https://31.kz/noimage.png" group-title="General",31 Kanal (576p)
 http://stream.mcquack.net/388/index.m3u8
-#EXTINF:-1 tvg-id="AlauTV.kz@SD" tvg-logo="https://i.imgur.com/gK6ZRzp.png" group-title="Undefined",Alau TV (576p)
-https://otv.wotom.net/alau/stream.m3u8
 #EXTINF:-1 tvg-id="AstanaTV.kz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7b/Astana_TV_Logo.png" group-title="General",Astana TV (576p)
 http://stream.mcquack.net/28/index.m3u8
 #EXTINF:-1 tvg-id="Channel7.kz@SD" tvg-logo="https://i.imgur.com/LebKU09.png" group-title="General",Channel 7 (Kazakhstan) (576p)

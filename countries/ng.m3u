@@ -14,6 +14,8 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_024/Stream/playlist.m3u
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_019/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="FlameTV.ng@SD" tvg-logo="https://i.imgur.com/ORKcnzr.png" group-title="Religious",Flame TV (576p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_010/Stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FortisTV.ng@SD" tvg-logo="https://i.imgur.com/HoO9Urd.jpg" group-title="General",Fortis TV
+https://stream.fortistv.com/hls/fortis-news/index.m3u8
 #EXTINF:-1 tvg-id="HMTV.ng@SD" tvg-logo="https://watchhmtv.com/hmtv_logo.svg" group-title="Music",HMTV (Nigeria) (720p)
 https://customer-yzxu6n447dx2x45h.cloudflarestream.com/f255a1e5ef17a8277e15e5f409951e98/manifest/video.m3u8
 #EXTINF:-1 tvg-id="ItageTV.ng@SD" tvg-logo="https://i.imgur.com/FP1aUPw.jpg" group-title="Movies",Itage TV (480p)
@@ -40,3 +42,5 @@ https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_017/Stream/playlist.m3u
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperscreenTV.ng@SD" tvg-logo="https://i.imgur.com/uTNmSWE.png" group-title="Culture;Family",Superscreen TV (412p)
 https://video1.getstreamhosting.com:1936/8398/8398/playlist.m3u8
+#EXTINF:-1 tvg-id="SynagogueTV.ng@SD" tvg-logo="https://i.imgur.com/MOaBr9M.png" group-title="Undefined",Synagogue TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8

@@ -15,6 +15,8 @@ https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
 https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
 #EXTINF:-1 tvg-id="SolTV.sv@SD" tvg-logo="https://i.imgur.com/jaBxxpt.png" group-title="General",SolTV (El Salvador) (720p)
 https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8
+#EXTINF:-1 tvg-id="TVGetsemani.sv@SD" tvg-logo="https://i.imgur.com/C9SJCcE.jpg" group-title="Religious",TV Getsemani (720p)
+https://serversv.com:8080/hls/tvgetsemani.m3u8
 #EXTINF:-1 tvg-id="TVLeondeJuda.sv@SD" tvg-logo="https://i.imgur.com/ZUCppwi.png" group-title="Religious",TV Leon de Juda (720p)
 https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCNetwork.sv@SD" tvg-logo="https://i.imgur.com/S1xiWB3.png" http-referrer="https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75" group-title="General",TVC Network (720p) [Not 24/7]
