@@ -124,8 +124,6 @@ http://88.212.7.14/live/test_nickelodeon_hu_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Kids",Nicktoons (Hungary)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/nicktoons_hungary/index.m3u8
-#EXTINF:-1 tvg-id="OzdiVarosiTV.hu@SD" tvg-logo="https://i.imgur.com/t0Aq3UD.png" group-title="General",Ozdi Varosi TV (720p) [Not 24/7]
-http://stream.nmih.hu:7980/live.m3u8
 #EXTINF:-1 tvg-id="OzoneTV.hu@SD" tvg-logo="https://i.imgur.com/eSNF9qt.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Science",Ozone TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/ozone/index.m3u8
@@ -146,6 +144,8 @@ http://88.212.7.14/live/test_rtl2_hungary_1200_atk/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLOtthon.hu@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/RTL_Otthon.svg/1920px-RTL_Otthon.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Entertainment",RTL Otthon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/rtl_otthon_atk/index.m3u8
+#EXTINF:-1 tvg-id="SIXOTV.hu@SD" tvg-logo="https://i.ibb.co/GTPs9Xy/9068.png" group-title="General",SIXO TV (360p)
+https://cloudfront44.lexanetwork.com:1344/relay01/HDE038.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="SlagerTV.hu@SD" tvg-logo="https://i.imgur.com/qDNRgSQ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Music",Slager TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/test_slager_tv_hungary_1200_atk/playlist.m3u8
@@ -182,6 +182,8 @@ http://88.212.7.14/live/story_4_cze_atk/index.m3u8
 #EXTINF:-1 tvg-id="SuperTV2.hu@SD" tvg-logo="https://i.imgur.com/JCu1u2v.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Super TV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 tvg-id="TelePaks.hu@SD" tvg-logo="https://i.imgur.com/T8ueztB.png" group-title="General",TelePaks (396p)
+https://cloudfront44.lexanetwork.com:1344/relay02/livestream004.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu@SD" tvg-logo="https://i.imgur.com/KcTTnUA.png" group-title="Outdoor",The Fishing & Hunting Channel
 http://88.212.7.14/live/test_fishing_hunting/playlist.m3u8
 #EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu@HD" tvg-logo="https://i.imgur.com/KcTTnUA.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Outdoor",The Fishing & Hunting Channel HD
@@ -208,6 +210,8 @@ http://88.212.7.14/live/test_lichi_tv_atk_tv/playlist.m3u8
 http://88.212.7.14/live/test_tv_4_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEger.hu@SD" tvg-logo="https://i.imgur.com/GUVW073.png" group-title="Undefined",TV Eger (1080p)
 http://stream.tveger.hu:8010/live.m3u8
+#EXTINF:-1 tvg-id="TVKeszthely.hu@SD" tvg-logo="https://i.imgur.com/2LE8xSW.png" group-title="General",TV Keszthely (360p)
+https://cloudfront44.lexanetwork.com:1344/freerelay/keszthelyivtv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPaprika.hu@SD" tvg-logo="https://i.imgur.com/KLpZIS6.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="Lifestyle;Travel",TV Paprika (Hungary)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 http://88.212.7.14/live/parpika_hun/index.m3u8
@@ -220,8 +224,6 @@ http://88.212.7.14/live/viasat3/index.m3u8
 #EXTINF:-1 tvg-id="Viasat6.hu@SD" tvg-logo="https://i.imgur.com/kypSbFX.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Viasat 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/viasat6/index.m3u8
-#EXTINF:-1 tvg-id="XVTV.hu@SD" tvg-logo="https://i.ibb.co/hH2KF6W/4792.png" group-title="General",XV TV (480p)
-https://cloudfront44.lexanetwork.com:1344/relay01/HDE051.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Zenebutik.hu@SD" tvg-logo="https://i.imgur.com/xGUlF78.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Undefined",Zenebutik
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/zenebutik/index.m3u8

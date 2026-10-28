@@ -1,6 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="AlWafaTarim.id@SD" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="Religious",Al Wafa Tarim (720p)
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlBahjahTV.id@SD" tvg-logo="https://i.imgur.com/52dlDZk.png" group-title="Religious",Al-Bahjah TV (1080p)
 http://202.150.161.117:8000/play/AlBahjahTV
+#EXTINF:-1 tvg-id="BalikpapanTV.id@SD" tvg-logo="https://i.imgur.com/P3whqna.png" group-title="General",Balikpapan TV (720p)
+http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="BandungTV.id@SD" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png" group-title="General",Bandung TV (360p)
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 tvg-id="BanjarTV.id@SD" tvg-logo="https://i.imgur.com/TA76a10.png" group-title="Undefined",Banjar TV (720p) [Not 24/7]
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CarubanTV.id@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png" http-referrer="https://stream.carubantv.id" group-title="Undefined",Caruban TV (1080p)
 #EXTVLCOPT:http-referrer=https://stream.carubantv.id
 https://stream.carubantv.id/hls/0/stream.m3u8
@@ -38,26 +46,32 @@ https://tvstreamcast.com/indonesiana.m3u8
 https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
 #EXTINF:-1 tvg-id="JogjaTV.id@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Jogjatvnew.png" group-title="General",Jogja TV (720p) [Not 24/7]
 https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8
+#EXTINF:-1 tvg-id="LingkarTV.id@SD" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Music;News;Religious",Lingkar TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 tvg-id="MaduTV.id@SD" tvg-logo="https://i.imgur.com/cKpgbgW.png" http-referrer="https://madu.tv/live-streaming/" group-title="General",Madu TV (1080p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://madu.tv/live-streaming/
+https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-id="MGSTV.id@SD" tvg-logo="https://i.imgur.com/MYU7dsZ.png" http-referrer="https://mgstv.co.id/live-streaming/" group-title="General",MGSTV (360p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://mgstv.co.id/live-streaming/
 https://mgstv.siar.us/live/mgstv.m3u8
 #EXTINF:-1 tvg-id="NabawiTV.id@SD" tvg-logo="https://i.imgur.com/O8WONFB.png" group-title="Religious",Nabawi TV (720p)
 http://202.150.161.117:8000/play/NabawiTV
+#EXTINF:-1 tvg-id="PKTV.id@SD" tvg-logo="https://i.imgur.com/mldv8Sf.png" http-referrer="https://pktvkaltim.com/acara/live-content/?noamp=mobile" group-title="Undefined",PKTV (480p)
+#EXTVLCOPT:http-referrer=https://pktvkaltim.com/acara/live-content/?noamp=mobile
+https://streaming.id18.tunnel.my.id/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PujaTVAceh.id@SD" tvg-logo="https://i.imgur.com/0TqABCL.png" http-referrer="https://www.pujatvaceh.com/" group-title="Undefined",Puja TV Aceh (1080p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://www.pujatvaceh.com/
 https://pujatv.siar.us/live/pujatv.m3u8
+#EXTINF:-1 tvg-id="RadarLampungTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png" http-referrer="https://radartvnews.com/live-streaming/" group-title="Undefined",Radar Lampung TV (480p)
+#EXTVLCOPT:http-referrer=https://radartvnews.com/live-streaming/
+https://www.streaming.radartv.co.id/hls/test.m3u8
 #EXTINF:-1 tvg-id="RadarTasikmalayaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Logo_Radar_Tasikmalaya_TV.png" group-title="Undefined",Radar Tasikmalaya TV (720p) [Not 24/7]
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RBTVJogja.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/3/31/RBTV_Jogjakarta.png" http-referrer="https://official.rbtvjogja.tv/live.php" group-title="General",RBTV Jogja (1080p) [Not 24/7]
 #EXTVLCOPT:http-referrer=https://official.rbtvjogja.tv/live.php
 https://official.rbtvjogja.tv/live/mychannel.m3u8
-#EXTINF:-1 tvg-id="RCTV.id@SD" tvg-logo="https://i.imgur.com/CyIlt0y.png" http-referrer="https://www.radarcirebon.tv/livestreaming/" group-title="Undefined",RCTV (Indonesia) (720p) [Not 24/7]
-#EXTVLCOPT:http-referrer=https://www.radarcirebon.tv/livestreaming/
-https://v10.siar.us/rctv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="RinjaniTV.id@SD" tvg-logo="https://lombokindustries.com/assunnah/zone/img/rinjanitv.png" group-title="Education",Rinjani TV
 https://rinjanitv.cloud/hls/tvkabel.m3u8
-#EXTINF:-1 tvg-id="RodjaTV.id@SD" tvg-logo="https://i.imgur.com/XwCeHlC.png" group-title="Undefined",Rodja TV (720p)
-https://rodjatv.com/rodjatv/live.m3u8
 #EXTINF:-1 tvg-id="SalamTV.id@SD" tvg-logo="https://i.imgur.com/00Ifzgo.png" http-referrer="salamtelevisi.com" group-title="Undefined",Salam TV (720p)
 #EXTVLCOPT:http-referrer=salamtelevisi.com
 https://live.salamtelevisi.com/hls/0/stream.m3u8
@@ -68,21 +82,27 @@ https://sampit-tv.siar.us/live/sampit-tv.m3u8
 #EXTINF:-1 tvg-id="SangajiTV.id@SD" tvg-logo="https://i.imgur.com/4rTNT8F.png" http-referrer="https://sangajitv.co.id/" group-title="Undefined",Sangaji TV (720p)
 #EXTVLCOPT:http-referrer=https://sangajitv.co.id/
 https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
-#EXTINF:-1 tvg-id="StaraTV.id@Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" http-referrer="https://jakarta.staratv.id/" group-title="Undefined",Stara TV Jakarta (1080p)
-#EXTVLCOPT:http-referrer=https://jakarta.staratv.id/
-https://jakarta.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="SriwijayaTV.id@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/7/75/SriwijayaTV_2014.png" http-referrer="sriwijayatv.tv" group-title="Undefined",Sriwijaya TV (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=sriwijayatv.tv
+https://sriwijayatv.siar.us/live/sriwijayatv.m3u8
 #EXTINF:-1 tvg-id="StaraTV.id@Parahyangan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" http-referrer="https://parahyangan.staratv.id/" group-title="Undefined",Stara TV Parahyangan (720p)
 #EXTVLCOPT:http-referrer=https://parahyangan.staratv.id/
 https://parahyangan.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="StaraTV.id@Jakarta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" http-referrer="https://jakarta.staratv.id/" group-title="Undefined",Stara TV Jakarta (1080p)
+#EXTVLCOPT:http-referrer=https://jakarta.staratv.id/
+https://jakarta.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="StaraTV.id@Bandung" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" http-referrer="https://bandung.staratv.id/" group-title="Undefined",Stara TV Bandung (1080p)
+#EXTVLCOPT:http-referrer=https://bandung.staratv.id/
+https://bandung.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="StaraTV.id@SumedangMajalengka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" http-referrer="https://stream.staratv.id/" group-title="Undefined",Stara TV (720p)
 #EXTVLCOPT:http-referrer=https://stream.staratv.id/
 https://stream.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="StaraTV.id@Cianjur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" http-referrer="https://cianjur.staratv.id/" group-title="Undefined",Stara TV Cianjur (720p)
 #EXTVLCOPT:http-referrer=https://cianjur.staratv.id/
 https://cianjur.staratv.id/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="StaraTV.id@Bandung" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" http-referrer="https://bandung.staratv.id/" group-title="Undefined",Stara TV Bandung (1080p)
-#EXTVLCOPT:http-referrer=https://bandung.staratv.id/
-https://bandung.staratv.id/hls/0/stream.m3u8
+#EXTINF:-1 tvg-id="StaraTV.id@Malang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" http-referrer="https://malang.staratv.id/" group-title="Undefined",Stara TV Malang (1080p)
+#EXTVLCOPT:http-referrer=https://malang.staratv.id/
+https://malang.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="STV.id@SD" tvg-logo="https://i.imgur.com/EIrXgT8.png" group-title="Undefined",STV (Indonesia) (720p) [Not 24/7]
 http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SuaraSurabayaVisualRadio.id@Surabaya" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Suara_Surabaya.svg" http-referrer="https://www.suarasurabaya.net/" group-title="Interactive;News",Suara Surabaya Visual Radio (720p)
@@ -90,6 +110,8 @@ http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TATV.id@SD" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="Undefined",TATV (720p) [Not 24/7]
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRI.id@WestKalimantan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="General",TVRI West Kalimantan (480p)
+https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
 #EXTINF:-1 tvg-id="UChannel.id@SD" tvg-logo="https://i.imgur.com/qxkb0cy.png" http-referrer="https://www.u-channel.tv" group-title="Undefined",U Channel
 #EXTVLCOPT:http-referrer=https://www.u-channel.tv
 https://srs.u-channel.tv/live/uchannel-tv.m3u8
