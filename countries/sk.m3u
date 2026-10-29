@@ -61,18 +61,20 @@ http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
 https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9.sk@SD" tvg-logo="https://i.imgur.com/Sco4x8t.png" group-title="Undefined",TV9 (Slovakia)
 https://dash4.antik.sk/live/test_tv9/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCentral.sk@SD" tvg-logo="https://i.imgur.com/LqGT8o9.png" group-title="Undefined",TV Central (540p)
+https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
 #EXTINF:-1 tvg-id="TVMistral.sk@SD" tvg-logo="https://i.imgur.com/IOJ6rcb.jpeg" group-title="General",TV Mistral
 https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNitricka.sk@SD" tvg-logo="https://i.imgur.com/iwWyG1A.png" group-title="General",TV Nitricka
 https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNRSR.sk@SD" tvg-logo="https://i.imgur.com/hsJsu3I.png" group-title="Legislative",TV NRSR (720p) [Not 24/7]
+https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPanorama.sk@SD" tvg-logo="https://i.imgur.com/0YtCG4Y.png" group-title="General",TV Panorama
 https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8
 #EXTINF:-1 tvg-id="TVPovazie.sk@SD" tvg-logo="https://i.imgur.com/JRD9YIY.png" group-title="Undefined",TV Povazie (1080p)
 https://dash3.antik.sk/live/test_povazie/playlist.m3u8
 #EXTINF:-1 tvg-id="TVRomana.sk@SD" tvg-logo="https://i.imgur.com/r7avFBX.png" group-title="Undefined",TV Romana (720p)
 http://88.212.7.11/live/test_tv_romana_web_player/playlist.m3u8
-#EXTINF:-1 tvg-id="TVRuzinov.sk@SD" tvg-logo="https://i.imgur.com/bUGuntH.png" group-title="Undefined",TV Ruzinov (1080p) [Not 24/7]
-http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVita.sk@SD" tvg-logo="https://i.imgur.com/Cx1GLbo.png" group-title="Culture",TV Vita
 https://dash3.antik.sk/live/test_vita/playlist.m3u8
 #EXTINF:-1 tvg-id="VIATV.sk@SD" tvg-logo="https://web02.antik.sk/assets/img/channels/247e7974b5eeaeda06744f312d2bbc51.svg" group-title="Undefined",VIA TV
