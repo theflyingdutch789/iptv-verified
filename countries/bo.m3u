@@ -39,6 +39,10 @@ https://edge.enhdtv.com/redamerica/index.m3u8
 https://59d39900ebfb8.streamlock.net/asiesmipueblo/asiesmipueblo/playlist.m3u8
 #EXTINF:-1 tvg-id="RedTVShop.bo@SD" tvg-logo="https://i.imgur.com/I7yB176.png" group-title="Shop",Red TV Shop (720p)
 https://master.tucableip.com/redtvshop/index.m3u8
+#EXTINF:-1 tvg-id="RedUno.bo@LaPaz" tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="General",Red Uno La Paz (1080p)
+http://190.181.61.93:8000/play/a003/index.m3u8
+#EXTINF:-1 tvg-id="RedUno.bo@SantaCruz" tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="General",Red Uno (1080p)
+http://190.181.61.93:8000/play/a002/index.m3u8
 #EXTINF:-1 tvg-id="RedADvenirTV.bo@KSCE" tvg-logo="https://i.imgur.com/970zAEn.png" group-title="Undefined",RedADvenir TV KSCE (360p)
 https://2-fss-2.streamhoster.com/pl_120/200226-1449024-1/playlist.m3u8
 #EXTINF:-1 tvg-id="RedADvenirTV.bo@SD" tvg-logo="https://i.imgur.com/WGkMt2j.png" group-title="Undefined",RedADvenir TV (360p) [Not 24/7]
@@ -67,5 +71,9 @@ https://edge.enhdtv.com/8026/index.m3u8
 https://edge.enhdtv.com/8190/index.m3u8
 #EXTINF:-1 tvg-id="Unifranz.bo@HD" tvg-logo="https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg" group-title="Education;Entertainment;News",Unifranz (720p)
 https://edge.enhdtv.com/8192/index.m3u8
+#EXTINF:-1 tvg-id="Unitel.bo@SantaCruz" tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="General",Unitel (Bolivia) (1080p)
+http://190.181.61.93:8000/play/1909/index.m3u8
+#EXTINF:-1 tvg-id="UnivalleTelevision.bo@SD" tvg-logo="https://i.imgur.com/qgrWDIs.png" group-title="Undefined",Univalle Television (1080p)
+https://master.tucableip.com/univalletv/playlist.m3u8
 #EXTINF:-1 tvg-id="ZuracaTV.bo@SD" tvg-logo="https://i.imgur.com/NsNytWD.jpeg" group-title="Business",Zuraca TV (720p)
 https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
