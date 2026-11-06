@@ -5,8 +5,10 @@ https://mediaserver.abnvideos.com/streams/abnsat.m3u8
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="AfarinTV.iq@SD" tvg-logo="https://i.imgur.com/6MnXD7g.png" group-title="Kids",Afarin TV (720p) [Not 24/7]
 https://65f16f0fdfc51.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJanoubTV.iq@SD" tvg-logo="https://i.imgur.com/rxDh6W1.png" group-title="News",Al Janoub TV
-https://live.alissahost.net/hls/test.m3u8
+#EXTINF:-1 tvg-id="AlIraqia.iq@SD" tvg-logo="https://i.imgur.com/8qQouTW.jpg" group-title="General",Al Iraqia (1080p)
+https://imn-live.esite-lab.com/hls/iraqia-general.m3u8
+#EXTINF:-1 tvg-id="AlIraqiaKurdish.iq@HD" tvg-logo="https://gateway.esite-lab.com/file-storage/api/v1/public/uploads/2025/3/8/7a8a2548d8e5850e87066d2e573796189.png" group-title="Undefined",Al Iraqia Kurdish (720p)
+https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
 #EXTINF:-1 tvg-id="AlRasheedTV.iq@SD" tvg-logo="https://i.imgur.com/ltyRjPK.png" group-title="General",Al Rasheed TV (1080p) [Not 24/7]
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 #EXTINF:-1 tvg-id="AlSharqiya.iq@SD" tvg-logo="https://i.imgur.com/mJIG5IV.png" group-title="General",Al Sharqiya (1080p)
@@ -19,10 +21,8 @@ https://alaimma.tv/live/index.m3u8
 https://live.aljawadain.org/live/aljawadaintv/playlist.m3u8
 #EXTINF:-1 tvg-id="AlabbassiaTV.iq@HD" tvg-logo="https://raw.githubusercontent.com/Alabbassia2026/Alabbassia-TV-Official/main/Logo%20PNG.png" group-title="Religious",Alabbassia TV (1080p)
 https://stream.alabbassia.com/live/alabbassia/index.m3u8
-#EXTINF:-1 tvg-id="AlawlaTV.iq@SD" tvg-logo="https://i.imgur.com/3Kv0t3X.png" group-title="General",Alawla TV
+#EXTINF:-1 tvg-id="AlawlaTV.iq@SD" tvg-logo="https://i.imgur.com/3Kv0t3X.png" group-title="General",Alawla TV (720p)
 https://live.alawla.tv/hls/stream.m3u8
-#EXTINF:-1 tvg-id="AlghadeerTV.iq@SD" tvg-logo="https://i.imgur.com/YPj6kXq.png" group-title="News",Alghadeer TV (1080p)
-https://sd343444.vodu.store:3356/live/Alghadeer/index.m3u8
 #EXTINF:-1 tvg-id="Alquran.iq@SD" tvg-logo="https://i.imgur.com/lqVwrAF.png" group-title="Religious",Alquran (1080p)
 https://ktvlive.online/stream/hls/ch1.m3u8
 #EXTINF:-1 tvg-id="AmozhgaryTV.iq@SD" tvg-logo="https://i.imgur.com/sseqFsO.png" group-title="Religious",Amozhgary TV
@@ -30,14 +30,14 @@ https://app-live.org/live/3268334b/index.m3u8
 #EXTINF:-1 tvg-id="AnwarTV2.iq@SD" tvg-logo="https://i.imgur.com/yHZXPcn.png" http-referrer="https://odysee.com/" group-title="News",Anwar TV2 (720p)
 #EXTVLCOPT:http-referrer=https://odysee.com/
 https://cloud.odysee.live/content/f92670235a1ce2bce4cf77671cc4dcc2188baa1d/master.m3u8
-#EXTINF:-1 tvg-id="AVAMedia.iq@HD" tvg-logo="https://github.com/user-attachments/assets/a9259f18-b9f2-4aa0-86f0-8fba1f343e69" group-title="Undefined",AVA Media (1080p)
-https://ava002.xyz/upload/images/1080.m3u8
 #EXTINF:-1 tvg-id="AvarTV.iq@HD" tvg-logo="https://i.imgur.com/JazFBkW.jpeg" group-title="Undefined",Avar TV (1080p)
 https://avr.host247.net/live/AvarTv/playlist.m3u8
 #EXTINF:-1 tvg-id="BeitolAbbasTVChannel.iq@SD" tvg-logo="https://i.imgur.com/s8PfUQy.png" group-title="Religious",BeitolAbbas TV Channel (720p)
 https://live.beitolabbas.tv/live/beitolabbastv.m3u8
 #EXTINF:-1 tvg-id="DijlahTV.iq@SD" tvg-logo="https://i.imgur.com/kyzH3G5.png" group-title="News",Dijlah TV (1080p)
 https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:-1 tvg-id="FarmodaTV.iq@HD" tvg-logo="https://i.imgur.com/x4KCQlH.png" group-title="Religious",FarmodaTV (1080p)
+https://avr.host247.net/live/FarmodaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="INews.iq@SD" tvg-logo="https://i.imgur.com/9lOuzHQ.png" group-title="News",I News (1080p)
 https://live.i-news.tv/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ImamHusseinTV1.iq@SD" tvg-logo="https://i.imgur.com/pDdUvz7.png" group-title="Religious",Imam Hussein TV 1 (1080p)
@@ -60,8 +60,6 @@ https://ktvlive.online/stream/hls/ch3.m3u8
 https://kurdchhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Kurdistan24.iq@SD" tvg-logo="https://i.imgur.com/9QWs2ms.png" group-title="News",Kurdistan 24 (1080p)
 https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
-#EXTINF:-1 tvg-id="KurdistanTV.iq@SD" tvg-logo="https://i.imgur.com/mjQptpc.png" group-title="General",Kurdistan TV (720p) [Not 24/7]
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Kurdsat.iq@SD" tvg-logo="https://i.imgur.com/UAbSwYA.png" group-title="Entertainment",Kurdsat (1080p)
 https://hlspackager.akamaized.net/live/DB/KURDSAT_HD/HLS/KURDSAT_HD.m3u8
 #EXTINF:-1 tvg-id="KurdsatNews.iq@SD" tvg-logo="https://i.imgur.com/F3XRwkt.png" group-title="News",Kurdsat News (1080p)
