@@ -38,6 +38,8 @@ http://88.212.15.50/live/test_dvojka_25p/playlist.m3u8
 https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Jednotka.sk@SD" tvg-logo="https://i.imgur.com/aqVki9i.png" group-title="General",Jednotka
 http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="KechnecTV.sk@SD" tvg-logo="https://web02.antik.sk/assets/img/channels/8633c8fea7eb3d31d85dc1098c07538f.svg" group-title="Undefined",Kechnec TV
+http://88.212.7.14/live/test_kechnec_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="MTR.sk@SD" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="General",MTR (1080p)
 https://cdnsk003.panaccess.com/local/Ruzomberok/index.m3u8
 #EXTINF:-1 tvg-id="NZTV.sk@SD" tvg-logo="https://i.imgur.com/jGZlnzT.png" group-title="General",NZTV
@@ -67,6 +69,8 @@ https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
 https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNitricka.sk@SD" tvg-logo="https://i.imgur.com/iwWyG1A.png" group-title="General",TV Nitricka
 https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
+#EXTINF:-1 tvg-id="TVNRSR.sk@SD" tvg-logo="https://i.imgur.com/hsJsu3I.png" group-title="Legislative",TV NRSR (720p) [Not 24/7]
+https://n11.stv.livebox.sk/stv-tv/stv4.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPanorama.sk@SD" tvg-logo="https://i.imgur.com/0YtCG4Y.png" group-title="General",TV Panorama (1080p)
 https://public.live.rebit.tv/live/20750f0b-e12d-4915-a4c3-47c5db9ccbf6/main.m3u8
 #EXTINF:-1 tvg-id="TVPovazie.sk@SD" tvg-logo="https://i.imgur.com/JRD9YIY.png" group-title="Undefined",TV Povazie (1080p)

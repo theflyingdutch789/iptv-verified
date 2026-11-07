@@ -61,10 +61,14 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f
 https://shd-amg-fast.edgenextcdn.net/tx011/playlist.m3u8
 #EXTINF:-1 tvg-id="MoviesThriller.sa@SD" tvg-logo="https://i.imgur.com/JWihdcl.png" group-title="Movies",Movies Thriller (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx012/playlist.m3u8
+#EXTINF:-1 tvg-id="PanoramaFM.sa@SD" tvg-logo="https://i.imgur.com/JkDD3bK.png" group-title="Music",Panorama FM (1080p)
+https://d6izdil55uftn.cloudfront.net/out/v1/0a06d1d6377c47edbd48721ed724bd08/index.m3u8
 #EXTINF:-1 tvg-id="RabehSaqer.sa@HD" tvg-logo="https://shahid.mbc.net/mediaObject/b98b0635-c8ed-4a7c-9efa-5856e278f54b?type=png" group-title="Music",Rabeh Saqer (1080p)
 https://shd-amg-fast.edgenextcdn.net/tx004/playlist.m3u8
 #EXTINF:-1 tvg-id="SaudiThaqafiyaTV.sa@SD" tvg-logo="https://shahid.mbc.net/mediaObject/55f69983-5b4b-47c7-9c25-06ed5ad860a4?height=auto&width=512&croppingPoint=&version=1&type=jpeg" group-title="Culture",Saudi Thaqafiya TV (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thaqafeyyah/28c0d2a20dbf1dc049ce15d3973f494b/index.m3u8
+#EXTINF:-1 tvg-id="SaudiaRadio.sa@SD" tvg-logo="https://aloula.faulio.com/storage/mediagallery/32/f9/fullhd_4c7e170fe0169d36ed17d45a645d4e69fb961793.png" group-title="Undefined",Saudia Radio (1080p)
+https://live.kwikmotion.com/sbrksasaudiaradiolive/srpksasaudiaradio/playlist.m3u8
 #EXTINF:-1 tvg-id="SBC.sa@SD" tvg-logo="https://i.imgur.com/9JSQglj.png" group-title="General",SBC (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sbc/90e09c0c28db26435799b4a14892a167/index.m3u8
 #EXTINF:-1 tvg-id="Tarab.sa@SD" tvg-logo="https://assets.mbcmood.com/channels/1738059679TARAB_Logo.png" group-title="Music",Tarab (1080p)

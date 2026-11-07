@@ -3,6 +3,8 @@
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="4Music.fr@SD" tvg-logo="" group-title="Music",4 Music
 https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="6ter.fr@SD" tvg-logo="https://i.imgur.com/2nd5Cox.png" group-title="Entertainment",6ter (1080p)
+http://149.62.177.107:9999/6ter/index.m3u8
 #EXTINF:-1 tvg-id="20MinutesTV.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/20_Minutes_TV_IDF_logo_%282023%29.png/960px-20_Minutes_TV_IDF_logo_%282023%29.png" group-title="General",20 Minutes TV (1080p)
 https://live-20minutestv.digiteka.com/1961167769/index.m3u8
 #EXTINF:-1 tvg-id="ADNTVPlus.fr@SD" tvg-logo="https://i.imgur.com/HQZQyWt.png" group-title="Animation",ADN TV+ (720p)
@@ -47,22 +49,24 @@ https://jmp2.uk/plu-619e6614c9d9650007a2b171.m3u8
 https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsSpanish.fr@SD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Spanish (1080p)
 https://iptv.bitred.cl/euronews/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr@Hungary" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Hungary
-http://88.212.7.14/live/esp1_hun/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Czechia" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Czechia
 http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@Hungary" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Hungary
+http://88.212.7.14/live/esp1_hun/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Spain" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Spain (576p)
 http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.fr@Germany" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Germany
-http://90.183.52.46:4000/play/a06v/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@Portugal" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Portugal
+http://185.228.163.146:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Russia" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Russia (1080p)
 https://s7.iptv-24.net/1439/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Czechia" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Czechia
 http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.fr@Spain" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Spain (1080p)
-http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Hungary" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Hungary
 http://88.212.7.14/live/esp2_hun/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr@Portugal" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Portugal
+http://185.228.163.146:8000/play/a048/index.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr@Spain" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Spain (1080p)
+http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport2.fr@Russia" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Russia (1080p)
 https://s7.iptv-24.net/1452/playlist.m3u8
 #EXTINF:-1 tvg-id="EvandisGospelTV.fr@SD" tvg-logo="https://i.imgur.com/v8TiqhH.png" group-title="Religious",Evandis Gospel TV (1080p)
@@ -71,10 +75,9 @@ https://evandis.streamakaci.tv/str_evandis_evandis/str_evandis_multi/playlist.m3
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="France3.fr@CotedAzur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/France_3_Cote_d%27Azur_-_Logo_2018.svg" group-title="General",France 3 Cote d'Azur (1080p)
 http://89.187.185.76:8080/France3/index.m3u8
-#EXTINF:-1 tvg-id="France4.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/France_4_2018.svg/960px-France_4_2018.svg.png" group-title="Kids",France 4 (1080p)
-http://149.62.177.107:9999/France_4/index.m3u8
-#EXTINF:-1 tvg-id="France5.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/France_5_2018.svg/960px-France_5_2018.svg.png" group-title="General",France 5 (1080p)
-http://149.62.177.107:9999/France_5/index.m3u8
+#EXTINF:-1 tvg-id="France3.fr@National" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/France_3_2018.svg/960px-France_3_2018.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="General",France 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://85.14.32.26:8800/udp/239.100.10.144:5000
 #EXTINF:-1 tvg-id="France24.fr@Spanish" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="News",France 24 Spanish (1080p)
 https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="France24.fr@Arabic" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_FRANCE_24/images/LOGO_HD/image.png" group-title="News",France 24 Arabic (1080p)
@@ -92,28 +95,22 @@ http://99.27.51.147:8080/Gulli/index.m3u8
 https://srv.webtvmanager.fr:3697/stream/play.m3u8
 #EXTINF:-1 tvg-id="IntoCrime.fr@SD" tvg-logo="https://i.imgur.com/43at4M2.png" group-title="Documentary",Into Crime (1080p)
 https://amg00711-zylo-amg00711c10-rakuten-fr-6731.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="KozoomTV.fr@SD" tvg-logo="https://i.imgur.com/M1Ee79b.png" group-title="Sports",Kozoom TV (1080p)
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fdd6f243-f971-4a1a-9510-97ac01d6b37f/manifest.m3u8
 #EXTINF:-1 tvg-id="LEquipe.fr@SD" tvg-logo="https://i.imgur.com/t35zhM9.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" group-title="Sports",L'Equipe (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36
 https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
-#EXTINF:-1 tvg-id="LCI.fr@SD" tvg-logo="https://i.imgur.com/DED8EXs.png" group-title="News",LCI (1080p)
-http://149.62.177.107:9999/LCI/index.m3u8
-#EXTINF:-1 tvg-id="LCP.fr@SD" tvg-logo="https://i.imgur.com/k7UImOJ.png" group-title="Legislative",LCP (477p)
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 tvg-id="LeFigaroTVIledeFrance.fr@SD" tvg-logo="https://i.imgur.com/a8RuRUQ.png" group-title="General",Le Figaro TV Ile-de-France (1080p)
 https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 #EXTINF:-1 tvg-id="M6.fr@HD" tvg-logo="https://i.imgur.com/7GVp3fW.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Entertainment",M6 HD (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://99.27.51.147:8080/M6/index.m3u8
+#EXTINF:-1 tvg-id="MCMPop.fr@SD" tvg-logo="https://i.imgur.com/j31lBL7.png" group-title="Music",MCM Pop
+http://176.65.153.78:8201/play/a070/index.m3u8
 #EXTINF:-1 tvg-id="MCMTop.fr@SD" tvg-logo="https://i.imgur.com/EVtWQLd.png" group-title="Music",MCM Top (France)
 http://185.228.163.146:8000/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="MDL.fr@SD" tvg-logo="https://i.imgur.com/REN30bx.png" group-title="Undefined",MDL (720p)
 http://tv.mondeduloisir.fr:1935/tixtv/smil:web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MezzoLive.fr@SD" tvg-logo="https://i.imgur.com/H9ytKPN.png" group-title="Music",Mezzo Live (1080p)
 http://stream.mcquack.net/276/index.m3u8
-#EXTINF:-1 tvg-id="MonteCarloDigitalTelevision.fr@HD" tvg-logo="https://i.imgur.com/99h8F1y.jpeg" group-title="Lifestyle",Monte Carlo Digital Television (1080p)
-https://fl718492-exthls-p1.flovp.com/fl718492/live/live.m3u8
 #EXTINF:-1 tvg-id="NOVO19.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Logo_NOVO19_-_2025.svg/960px-Logo_NOVO19_-_2025.svg.png" group-title="General",NOVO19 (1080p)
 http://149.62.177.107:9999/NOVO19/index.m3u8
 #EXTINF:-1 tvg-id="P2MTV.fr@SD" tvg-logo="https://i.imgur.com/TrecSeG.png" group-title="Music",P2M TV (720p)
@@ -172,22 +169,30 @@ https://5098a8b860504a3690fd2e7c0a18d68f.mediatailor.us-west-2.amazonaws.com/v1/
 https://7aa9671895264ec9a384dfed1b992171.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-818-FR-SONYONEHITSCOMDIE-LG_FR/playlist.m3u8
 #EXTINF:-1 tvg-id="TebeoTV.fr@SD" tvg-logo="https://i.imgur.com/WdZWBEd.png" group-title="General",Tebeo TV (576i)
 https://tebeo.streamakaci.tv/tebeo/tebeo-multi/playlist.m3u8
-#EXTINF:-1 tvg-id="TF1.fr@SD" tvg-logo="https://i.imgur.com/QxHt9NC.png" group-title="Entertainment",TF1 (1080p)
-http://149.62.177.107:9999/TF1/index.m3u8
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr@SD" tvg-logo="https://i.imgur.com/4CJIDKQ.png" group-title="Movies",TF1 Series Films (1080p)
+http://149.62.177.107:9999/TF1_Series_Films/index.m3u8
+#EXTINF:-1 tvg-id="TMC.fr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/54/TMC_logo.svg/960px-TMC_logo.svg.png" group-title="General",TMC HD (1080p)
+http://149.62.177.107:9999/TMC/index.m3u8
 #EXTINF:-1 tvg-id="TraceAyiti.fr@SD" tvg-logo="https://i.imgur.com/KkJ6fet.png" group-title="Music",Trace Ayiti (1080p)
 https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="Music",Trace Brazuca (1080p)
 https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@HD" tvg-logo="https://i.imgur.com/DFBocPu.png" group-title="Music",Trace Brazuca HD (1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceMboa.fr@SD" tvg-logo="https://i.imgur.com/cYwkCj2.png" group-title="Music",Trace Mboa (1080p)
-https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceCaribbean.fr@SD" tvg-logo="https://i.imgur.com/ZHD7Vxy.png" group-title="Music",Trace Caribbean (1080p)
+https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceLatina.fr@SD" tvg-logo="https://i.imgur.com/CUVAi4u.png" group-title="Music",Trace Latina (1080p)
+https://channels.trace.plus/Traceprod/LATINA_hd/index.m3u8
+#EXTINF:-1 tvg-id="TraceSportStars.fr@HD" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="Sports",Trace Sport Stars (1080p)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr@SD" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Music",Trace Urban (1080p)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5MondeAfrica.fr@SD" tvg-logo="https://i.imgur.com/0N64Ddn.png" group-title="Undefined",TV5Monde Africa (720p)
 http://5.9.121.178/tv5monde/index.m3u8
 #EXTINF:-1 tvg-id="TV5MONDEChefs.fr@SD" tvg-logo="https://psi.tv5monde.com/media/static/default/lives/tv5monde-chef.png" group-title="Cooking;Lifestyle",TV5MONDE Chefs (1080p)
 https://tvf-tv5ch.otteravision.com/tvf/tv5ch/tv5ch.m3u8
+#EXTINF:-1 tvg-id="TV7Colmar.fr@SD" tvg-logo="https://i.imgur.com/kSdGi43.png" group-title="General",TV7 Colmar (576p)
+https://tv7.live-kd.com/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlsace.fr@HD" tvg-logo="https://academie.kasumay.international/ico/radioalsace.png" group-title="General",TV Alsace (1080p)
 http://194.163.157.137:8080/hls/radioalsace.m3u8
 #EXTINF:-1 tvg-id="TVMulhouse.fr@HD" tvg-logo="https://academie.kasumay.international/ico/radiomulhouse.png" group-title="General",TV Mulhouse (1080p)

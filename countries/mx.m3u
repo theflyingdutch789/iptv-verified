@@ -55,18 +55,20 @@ http://45.171.64.30:6060/play/a039/index.m3u8
 http://45.171.64.30:6060/play/a00w/index.m3u8
 #EXTINF:-1 tvg-id="ConectaTV.mx@SD" tvg-logo="https://i.imgur.com/qEk0QGa.png" group-title="Music",Conecta TV (720p)
 https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
+#EXTINF:-1 tvg-id="CreaLaTV.mx@SD" tvg-logo="https://i.imgur.com/Bnjj29f.png" group-title="General",CreaLaTV (1080p)
+https://stream.crealatv.com/live.m3u8
 #EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx@SD" tvg-logo="https://i.imgur.com/aksM8pa.png" group-title="Movies",De Pelicula Latin America (1080p)
 http://15.204.196.147:22880/RECEPCION-DPELICULA-LATAM-FHD/video.m3u8
-#EXTINF:-1 tvg-id="DePeliculaPlus.mx@SD" tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="Movies",De Pelicula Plus (1080p)
-http://200.115.120.1:8000/play/ca030/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/960px-Discovery_H%26H_Logo_2022.webp.png" group-title="Lifestyle",Discovery Home & Health Latin America South
 http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/39.m3u8
 #EXTINF:-1 tvg-id="DistritoComedia.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/960px-DistritoComediaLOGO2018.png" group-title="Comedy",Distrito Comedia (1080p)
 http://15.204.142.109:22880/TELEVISA-PROVEEDOR-DISTRITO-COMEDIA/index.m3u8
+#EXTINF:-1 tvg-id="EclipseTV.mx@SD" tvg-logo="https://i.imgur.com/GiDD8xG.jpg" group-title="General",Eclipse TV (720p)
+https://vdo6.instainternet.com:3272/live/jobetalborezlive.m3u8
 #EXTINF:-1 tvg-id="ElChavoTV.mx@HD" tvg-logo="https://gia.tv/streams/pptv/211465.png" group-title="Kids",El Chavo TV (720p)
 https://live20.bozztv.com/giatvplayout7/giatv-211465/playlist.m3u8
-#EXTINF:-1 tvg-id="ExaTV.mx@SD" tvg-logo="https://i.imgur.com/JWOqr1a.png" group-title="Music",Exa TV
-http://190.61.90.17:40000/play/a0hk/index.m3u8
+#EXTINF:-1 tvg-id="ElSonorense.mx@SD" tvg-logo="https://i.imgur.com/aKvPd4g.jpg" group-title="Culture",El Sonorense (1080p) [Not 24/7]
+https://s5.mexside.net:1936/elsonorense/elsonorense/playlist.m3u8
 #EXTINF:-1 tvg-id="ExpresaTV.mx@SD" tvg-logo="https://i.imgur.com/kFVVGrg.png" group-title="General",Expresa TV (720p)
 https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmex.mx@SD" tvg-logo="https://i.imgur.com/Hiz2OyC.png" group-title="Movies",Filmex (1080p) [Geo-blocked]
@@ -87,6 +89,8 @@ http://200.57.28.141:8540/play/a0lo
 http://200.57.28.141:8540/play/a0ln
 #EXTINF:-1 tvg-id="IcrtvColima.mx@SD" tvg-logo="https://i.imgur.com/iUks0ot.png" group-title="Legislative",Icrtv Colima (1080p)
 https://5fc584f3f19c9.streamlock.net/icrtvcolima/smil:icrtvcolima.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="IERTBCSCanal82.mx@SD" tvg-logo="https://i.imgur.com/R3icGuG.png" group-title="Entertainment",IERTBCS Canal 8.2 (1080p) [Not 24/7]
+https://s5.mexside.net:1936/xhbzc82/xhbzc82/playlist.m3u8
 #EXTINF:-1 tvg-id="ImagenTV.mx@SD" tvg-logo="https://i.imgur.com/lKrRvtS.png" group-title="General",Imagen TV (1080p)
 https://igd-it-runtime.otteravision.com/igd/it/it.m3u8
 #EXTINF:-1 tvg-id="ITVDeportes.mx@SD" tvg-logo="https://iili.io/J1kV1Bn.png" group-title="Entertainment;Sports",ITV Deportes (720p)
@@ -105,8 +109,6 @@ https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 https://jmp2.uk/plu-652e922db4b047000825f975.m3u8
 #EXTINF:-1 tvg-id="MonteMaria.mx@SD" tvg-logo="https://i.imgur.com/0rMHbbM.png" group-title="Religious",Monte Maria (1080p)
 https://5ca9af4645e15.streamlock.net/montemaria/videomontemaria/playlist.m3u8
-#EXTINF:-1 tvg-id="MultiPremier.mx@SD" tvg-logo="https://i.imgur.com/H3PzGZW.png" group-title="Movies",MultiPremier (1080p)
-http://168.196.127.137:6001/play/a08n/index.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.mx@SD" tvg-logo="https://i.imgur.com/pw4NZK1.png" group-title="Movies",MyTime Movie Network (Mexico) (720p)
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NueveTV.mx@SD" tvg-logo="https://i.imgur.com/3fzB7zY.png" group-title="General",Nueve TV (720p)
@@ -117,18 +119,18 @@ http://181.78.8.199:8000/play/a0bt/index.m3u8
 https://oly-ftvpc.otteravision.com/oly/ftvpc/ftvpc.m3u8
 #EXTINF:-1 tvg-id="PresumiendoMexico.mx@SD" tvg-logo="https://i.imgur.com/bFG4Rqz.png" group-title="Culture",Presumiendo Mexico (720p)
 https://60417ddeaf0d9.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PSN.mx@SD" tvg-logo="https://i.imgur.com/7i7GkSL.png" group-title="Entertainment;News",PSN (288p)
+https://srspsn.live/live/livestream.m3u8
+#EXTINF:-1 tvg-id="PSNCanal452.mx@SD" tvg-logo="https://i.imgur.com/7i7GkSL.png" group-title="News",PSN Canal 45.2 (288p)
+https://srspsn2.live/live/livestream.m3u8
 #EXTINF:-1 tvg-id="RCGTV.mx@SD" tvg-logo="https://i.imgur.com/kYtAR26.png" group-title="Undefined",RCG TV (1080p)
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-1 tvg-id="RTQQueretaro.mx@SD" tvg-logo="https://i.imgur.com/RRckCvf.png" group-title="Undefined",RTQ Queretaro (1080p)
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
-#EXTINF:-1 tvg-id="SIPSETV81.mx@SD" tvg-logo="https://i.imgur.com/123P7dV.png" group-title="General",SIPSE TV 8.1 (1080p) [Not 24/7]
-https://webprod.sipse.com.mx:8080/show/merida.m3u8
-#EXTINF:-1 tvg-id="SIPSETVCUN81.mx@SD" tvg-logo="https://i.imgur.com/uiTgClU.png" group-title="General",SIPSE TVCUN 8.1 (1080p) [Not 24/7]
-https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+#EXTINF:-1 tvg-id="SICOMTelevision.mx@XHPBZCTDT" tvg-logo="https://i.imgur.com/dbJKErB.png" group-title="Undefined",SICOM Television XHPBZC-TDT (720p) [Not 24/7]
+https://5d0d1d7a6be9e.streamlock.net/sicom/canal1/playlist.m3u8
 #EXTINF:-1 tvg-id="SistemaMichoacanodeTV.mx@SD" tvg-logo="https://i.imgur.com/7MXF4Fd.png" group-title="Undefined",Sistema Michoacano de TV (1080p) [Not 24/7]
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
-#EXTINF:-1 tvg-id="SkySports1.mx@SD" tvg-logo="https://i.imgur.com/9onSfMi.png" group-title="Sports",Sky Sports 1 (1080p)
-http://45.228.234.9:8000/play/a06b/index.m3u8
 #EXTINF:-1 tvg-id="TeleYucatan.mx@SD" tvg-logo="https://i.imgur.com/XkpDSmO.png" http-referrer="https://www.teleyucatan.gob.mx/" group-title="Undefined",Tele Yucatan (1080p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://www.teleyucatan.gob.mx/
 https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
