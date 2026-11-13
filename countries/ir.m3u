@@ -15,6 +15,8 @@ https://araxhls.wns.live/hls/stream.m3u8
 https://arkhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="ArvanTV.ir@SD" tvg-logo="" group-title="Undefined",Arvan TV
 https://arvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="AsilTV.ir@SD" tvg-logo="https://i.imgur.com/gROQqFD.png" group-title="Undefined",Asil TV (576p)
+https://live.asil.tv/asiltv/index.m3u8
 #EXTINF:-1 tvg-id="AssiratTV.ir@SD" tvg-logo="https://i.imgur.com/ps4Gtj0.png" group-title="Religious",Assirat TV (576p)
 https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8
 #EXTINF:-1 tvg-id="AtrakTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/28/Bojnourd_ATRAK_TV.svg/960px-Bojnourd_ATRAK_TV.svg.png" group-title="General",Atrak TV
@@ -33,32 +35,34 @@ https://clshls.wns.live/hls/stream.m3u8
 https://ncdn.telewebion.ir/dena/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EshraghNetwork.ir@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3AM7W8mE877olzjDXmTN_Sxn_cmR_WAlDKPmE62G8E3cJPJwKdRnIa42quYie9z71Lwo&usqp=CAU" group-title="General",Eshragh Network
 https://ncdn.telewebion.ir/eshragh/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FarsTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/7/7b/Iribfars.png" group-title="General",Fars TV
+https://ncdn.telewebion.ir/fars/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FX1.ir@SD" tvg-logo="" group-title="Entertainment",FX 1
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GoldStar.ir@SD" tvg-logo="" group-title="Movies",Gold Star
 https://moviethls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="GolkhaneTv.ir@SD" tvg-logo="https://static.telewebion.com/channelsLogo/686599d8-c1ee-4557-aa72-b1293a21906d/default" group-title="Undefined",Golkhane Tv
 https://ncdn.telewebion.ir/golkhane/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HamedanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/IRIB_Hamadan_tv.svg/960px-IRIB_Hamadan_tv.svg.png" group-title="Undefined",Hamedan TV
+https://ncdn.telewebion.ir/sina/live/playlist.m3u8
 #EXTINF:-1 tvg-id="HamoonTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/b/bc/Zahedan_Hamoon.png" group-title="Undefined",Hamoon TV
 https://ncdn.telewebion.ir/hamoon/live/playlist.m3u8
 #EXTINF:-1 tvg-id="iFilm2.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/ce/Ifilm2logo.png" group-title="Movies",iFilm 2
 https://live.presstv.co.uk/hls/ifilm2.m3u8
 #EXTINF:-1 tvg-id="iFilmArabic.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",iFilm Arabic
 https://live.presstv.co.uk/hls/ifilmar.m3u8
-#EXTINF:-1 tvg-id="IlamTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Ilam_TV.png/960px-Ilam_TV.png" group-title="General",Ilam TV
-https://ncdn.telewebion.ir/ilam/live/playlist.m3u8
+#EXTINF:-1 tvg-id="iFilmEnglish.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",iFilm English
+https://live.presstv.co.uk/hls/ifilmen.m3u8
+#EXTINF:-1 tvg-id="iFilmPersian.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png" group-title="Movies",iFilm Persian
+https://live.presstv.co.uk/hls/ifilmfa.m3u8
 #EXTINF:-1 tvg-id="IRINN.ir@SD" tvg-logo="https://i.imgur.com/8tzsC9h.png" group-title="News",IRINN (576p)
 http://185.9.2.18/chid_926/index.m3u8
+#EXTINF:-1 tvg-id="JahanbinTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/4/4a/Shahrekord_Jahanbin.svg/960px-Shahrekord_Jahanbin.svg.png" group-title="General",Jahanbin TV
+https://ncdn.telewebion.ir/jahanbin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KhalijeFarsTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/7/7c/Bandar_KHALI_J_e_FARS_TV.svg/960px-Bandar_KHALI_J_e_FARS_TV.svg.png" group-title="General",Khalij-e Fars TV
 https://ncdn.telewebion.ir/khalijefars/live/playlist.m3u8
-#EXTINF:-1 tvg-id="KhorasanRazaviTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/b/bd/%D9%84%D9%88%DA%AF%D9%88_%D8%B4%D8%A8%DA%A9%D9%87_%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86_%D8%B1%D8%B6%D9%88%DB%8C.png" group-title="General",Khorasan Razavi TV
-https://ncdn.telewebion.ir/khorasanrazavi/live/playlist.m3u8
-#EXTINF:-1 tvg-id="KishTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/1/14/Kish_tv.svg/960px-Kish_tv.svg.png" group-title="General",Kish TV
-https://ncdn.telewebion.ir/kish/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KordestanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/thumb/2/2c/Sanandaj_KORDESTAN.svg/960px-Sanandaj_KORDESTAN.svg.png" group-title="General",Kordestan TV
 https://ncdn.telewebion.ir/kordestan/live/playlist.m3u8
-#EXTINF:-1 tvg-id="MahabadTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/c/cb/Mahabad_tv.png" group-title="General",Mahabad TV
-https://ncdn.telewebion.ir/mahabad/live/playlist.m3u8
 #EXTINF:-1 tvg-id="MetaFilmTV.ir@SD" tvg-logo="" group-title="Movies",Meta Film TV
 https://metafilmhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MihanTV.ir@SD" tvg-logo="https://i.imgur.com/XEMsM7w.png" group-title="News",Mihan TV
@@ -82,8 +86,6 @@ https://avr.host247.net/live/rasoulallahtv/playlist.m3u8
 https://ncdn.telewebion.ir/iribu/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SabalanTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fa/f/f2/Ardabil_SABALAN.png" group-title="Undefined",Sabalan TV
 https://ncdn.telewebion.ir/sabalan/live/playlist.m3u8
-#EXTINF:-1 tvg-id="SabzTV.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_Golestan.png/960px-Logo_Golestan.png" group-title="General",Sabz TV
-https://ncdn.telewebion.ir/sabz/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SL1.ir@SD" tvg-logo="https://i.imgur.com/n9cuM2W.jpg" group-title="Movies",SL 1
 https://slonehls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="SL2.ir@SD" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" group-title="Movies",SL 2

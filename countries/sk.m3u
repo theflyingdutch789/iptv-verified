@@ -40,6 +40,8 @@ https://dash3.antik.sk/live/test_haha_tv/playlist.m3u8
 http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="KechnecTV.sk@SD" tvg-logo="https://web02.antik.sk/assets/img/channels/8633c8fea7eb3d31d85dc1098c07538f.svg" group-title="Undefined",Kechnec TV
 http://88.212.7.14/live/test_kechnec_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="LifeTv.sk@SD" tvg-logo="https://i.imgur.com/jO8kAY2.png" group-title="Religious",LifeTv (1080p)
+https://lifetv.mpks.sk/s.m3u8
 #EXTINF:-1 tvg-id="MarkizaPlus1.sk@SD" tvg-logo="https://web02.antik.sk/assets/img/channels/e910de4c6891e918d2c52d6149fc9589.svg" group-title="General",Markiza +1
 http://88.212.7.14/live/test_mpjedna_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="MTR.sk@SD" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="General",MTR (1080p)
@@ -69,8 +71,6 @@ http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
 https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TV9.sk@SD" tvg-logo="https://i.imgur.com/Sco4x8t.png" group-title="Undefined",TV9 (Slovakia)
 https://dash4.antik.sk/live/test_tv9/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCentral.sk@SD" tvg-logo="https://i.imgur.com/LqGT8o9.png" group-title="Undefined",TV Central (540p)
-https://arenasportslovakia.ddns.net/hls/cetv2.m3u8
 #EXTINF:-1 tvg-id="TVMistral.sk@SD" tvg-logo="https://i.imgur.com/IOJ6rcb.jpeg" group-title="General",TV Mistral
 https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNitricka.sk@SD" tvg-logo="https://i.imgur.com/iwWyG1A.png" group-title="General",TV Nitricka
