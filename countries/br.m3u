@@ -61,10 +61,6 @@ https://fpa-gateway.tvcultura.com.br:8181/memfs/606caef0-a290-413d-9f1f-8fcdb3a7
 https://br.conectmy.com.br/DespertarTV/index.m3u8
 #EXTINF:-1 tvg-id="DumDum.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" group-title="Kids",DumDum (720p)
 http://186.219.52.187/zoomoo/index.m3u8
-#EXTINF:-1 tvg-id="ESPN4.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/960px-ESPN_4_logo.svg.png" group-title="Sports",ESPN 4 (Brazil) (1080p)
-http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 tvg-id="ESPN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/960px-ESPN_wordmark.svg.png" group-title="Sports",ESPN (Brazil) (1080p)
-http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-id="EUTV.br@SD" tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="General",EUTV (720p)
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="FalaLitoral.br@SD" tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="General",Fala Litoral (480p)
@@ -179,8 +175,6 @@ https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlternativa.br@SD" tvg-logo="https://i.imgur.com/wM9xXhc.png" group-title="General",TV Alternativa (410p)
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-id="TVArapuan.br@SD" tvg-logo="https://i.imgur.com/3395A2h.png" group-title="General",TV Arapuan (720p)
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBahia.br@HD" tvg-logo="https://i.imgur.com/sJOrvHg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" group-title="Undefined",TV Bahia (1080i)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
@@ -197,8 +191,6 @@ http://170.83.16.50/CANCAO_NOVA/index.m3u8
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-id="TVClube.br@SD" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="Undefined",TV Clube (720p)
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 tvg-id="TVComunitaria.br@SD" tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="General",TV Comunitaria (360p)
-https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="TVCuruca.br@SD" tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="Entertainment",TV Curuca (360p)
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDifusao.br@SD" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px_doiivZN.png" group-title="General",TV Difusao (720p)
@@ -255,8 +247,6 @@ https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 https://app.tvufop.com.br/hls/tvufop.m3u8
 #EXTINF:-1 tvg-id="TVUniversal.br@SD" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="Religious",TV Universal (480p)
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TVVicosa.br@SD" tvg-logo="https://i.imgur.com/TZF55f9.png" group-title="Entertainment",TV Vicosa (480p)
-http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVilaReal.br@SD" tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="Undefined",TV Vila Real (720p)
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-id="TVZoom.br@SD" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="Entertainment;News",TV Zoom (720p)

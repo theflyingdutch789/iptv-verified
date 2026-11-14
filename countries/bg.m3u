@@ -11,6 +11,8 @@ http://213.91.179.28:8000/play/a05r
 http://213.91.179.28:8000/play/a04m
 #EXTINF:-1 tvg-id="BNT1.bg@SD" tvg-logo="https://i.imgur.com/7JU9b5j.png" group-title="General",BNT 1 (1080p)
 https://shift03.isp.bg/BNT1_HD/index.m3u8
+#EXTINF:-1 tvg-id="BNT3.bg@SD" tvg-logo="https://i.imgur.com/pPpSJ4u.png" group-title="General",BNT 3 (1080p)
+https://shift03.isp.bg/BNT3_HD/index.m3u8
 #EXTINF:-1 tvg-id="BNT4.bg@SD" tvg-logo="https://i.imgur.com/Lw8b3yu.png" group-title="General",BNT 4 (1080p)
 https://shift03.isp.bg/BNT4_HD/index.m3u8
 #EXTINF:-1 tvg-id="BOXTV.bg@SD" tvg-logo="https://i.imgur.com/swFzesA.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Music",BOX TV
@@ -72,6 +74,8 @@ http://213.91.179.28:8000/play/a0cf
 http://213.91.179.28:8000/play/a041
 #EXTINF:-1 tvg-id="LightChannel.bg@SD" tvg-logo="https://i.imgur.com/S3Fbf8T.png" group-title="Religious",Light Channel (Bulgaria) (480p) [Not 24/7]
 https://streamer1.streamhost.org/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-id="MagicTV.bg@SD" tvg-logo="https://i.imgur.com/n7bcrrp.png" group-title="Music",Magic TV (Bulgaria) (720p)
+https://bss1.neterra.tv/magictv/magictv.m3u8
 #EXTINF:-1 tvg-id="MaxSport1.bg@SD" tvg-logo="https://i.imgur.com/0ohnpql.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36x" group-title="Sports",Max Sport 1 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36x
 http://213.91.179.28:8000/play/a0as
@@ -135,8 +139,6 @@ http://stream.mcquack.net/100/tracks-v1a1/mono.ts.m3u8?ads=1&filter.tracks=v1a1
 https://shift03.isp.bg/RodinaTV/index.m3u8
 #EXTINF:-1 tvg-id="TVSpravedlivaBulgariya.bg@SD" tvg-logo="https://tvsb.bg/theme/images/logo.png" group-title="General",TV Spravedliva Bulgariya
 https://tv.tvsb.bg/112.m3u8
-#EXTINF:-1 tvg-id="TVZagora.bg@SD" tvg-logo="https://i.imgur.com/DvBboqe.png" group-title="General",TV Zagora (576p)
-http://zagoratv.ddns.net:8080/tvzagora.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.bg@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Viasat_Explore_2026.svg" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Documentary",Viasat Explore (Bulgaria) (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://shift03.isp.bg/ViasatExplorer_HD/index.m3u8
