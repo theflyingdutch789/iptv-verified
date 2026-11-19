@@ -1,10 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AzTV.az@SD" tvg-logo="https://i.imgur.com/snBMMeH.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" group-title="General",Az TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
-http://109.205.166.68/server124/aztv/index3.m3u8?e=1676581573&st=AzGSZjk1DpXY1SLc1m4OvA
+#EXTINF:-1 tvg-id="AyazTV.az@SD" tvg-logo="https://www.ayaztv.com/storage/assets/site_logo.png" group-title="General",Ayaz TV
+https://janya-ayaztv.vgcdn.net/ptnr-WebApp/title-Ayaz_TV/v1/vglive-sk-934820/720p/720p.m3u8
+#EXTINF:-1 tvg-id="AzTV.az@SD" tvg-logo="https://i.imgur.com/snBMMeH.png" group-title="General",Az TV
+https://operativmm.az/tvs/az/stream9/index.m3u8
 #EXTINF:-1 tvg-id="AzadTV.az@SD" tvg-logo="https://i.imgur.com/rDYSoRL.png" group-title="General",Azad TV (1080p)
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:-1 tvg-id="BakuTV.az@SD" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="News",Baku.TV (1080p)
+#EXTINF:-1 tvg-id="BakuTV.az@SD" tvg-logo="https://i.imgur.com/r4FzxSg.png" group-title="News",Baku.TV
 https://rtmp.baku.tv/hls/bakutv.m3u8
 #EXTINF:-1 tvg-id="KNMusicTV.az@SD" tvg-logo="https://www.knmusictv.com/wp-content/uploads/2026/01/LOGO2112.png" group-title="Music",KN Music TV
 https://cdn4.yayin.com.tr/kntv/tracks-v1a1/mono.m3u8
