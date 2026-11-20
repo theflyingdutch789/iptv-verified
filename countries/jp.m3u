@@ -22,6 +22,8 @@ https://cdn.pishow.tv/ott/live/455/master.m3u8
 https://ntv5.mov3.co/hls/ntv.m3u8
 #EXTINF:-1 tvg-id="QVC.jp@SD" tvg-logo="https://i.imgur.com/6TWUVrh.png" group-title="Shop",QVC (Japan) (1080p)
 https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+#EXTINF:-1 tvg-id="ShopChannel.jp@SD" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png" group-title="Shop",Shop Channel (1080p) [Not 24/7]
+https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-id="TVAsahi.jp@JOEXDTV" tvg-logo="https://i.imgur.com/YCqB5Kj.png" http-referrer="https://mov3.co/" group-title="General",TV Asahi [Not 24/7]
 #EXTVLCOPT:http-referrer=https://mov3.co/
 https://tvasahi.mov3.co/hls/tvasahi.m3u8
