@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.kanya.io/us/guide.xml.gz,https://worker-9dd4.onrender.com/guide.xml.gz"
 #EXTINF:-1 tvg-id="EcoTV.mz@SD" tvg-logo="https://i.imgur.com/1V6VENw.png" http-referrer="https://site.ecotv.co.mz/ecotv-mocambique-online" group-title="General",EcoTV (1080i)
 #EXTVLCOPT:http-referrer=https://site.ecotv.co.mz/ecotv-mocambique-online
 https://streaming.ecotv.co.mz/hls/index.m3u8

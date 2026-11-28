@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://epg.kanya.io/us/guide.xml.gz,https://worker-9dd4.onrender.com/guide.xml.gz"
 #EXTINF:-1 tvg-id="TelevizijaE.me@HD" tvg-logo="https://i.imgur.com/3bGB7rm.png" http-referrer="https://player.castr.com/live_6afb8120b72011f18b96d98dc1bdb4ff" group-title="General",Televizija E (720p)
 #EXTVLCOPT:http-referrer=https://player.castr.com/live_6afb8120b72011f18b96d98dc1bdb4ff
 https://stream.castr.com/6ab37887230ab3cb17e0e5c6/live_6afb8120b72011f18b96d98dc1bdb4ff/index.m3u8
